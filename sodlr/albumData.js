@@ -24,7 +24,7 @@ var disc1 = [
 		title:"Mickey and Friends Tram: Narration (2006)",
 		artist:"Walt Disney",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Welcome to Disneyland/03 Mickey and Friends Tram_ Narration (2006).m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Welcome to Disneyland/03 Mickey and Friends Tram_ Narration (2006).mp3",
 		poster:"AlbumArt/Welcome to Disneyland.png",
 		album:"Welcome to Disneyland",
 		comments:"Track source: soundsofdisneyland.com"
@@ -324,7 +324,7 @@ var disc2 = [
 		title:"Pixar Fest Area Loop (2018)",
 		artist:"Walt Disney",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Disneyland Esplanade/32 Pixar Fest Area Loop (2018).m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Disneyland Esplanade/32 Pixar Fest Area Loop (2018).mp3",
 		poster:"AlbumArt/Disneyland Esplanade.png",
 		album:"Disneyland Esplanade",
 		comments:"Track source: soundsofdisneyland.com"
@@ -408,7 +408,7 @@ var disc3 = [
 		title:"Entrance Tunnel: Area Soundscape",
 		artist:"Walt Disney",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Main Gate/09 Entrance Tunnel_ Area Soundscape.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Main Gate/09 Entrance Tunnel_ Area Soundscape.mp3",
 		poster:"AlbumArt/Main Gate.png",
 		album:"Main Gate",
 		comments:"Track source: soundsofdisneyland.com"
@@ -426,7 +426,7 @@ var disc3 = [
 		title:"Main Street U.S.A.: Walt Disney's Dedication of Disneyland",
 		artist:"Walt Disney",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Main Gate/11 Main Street U.S.A._ Walt Disney_s Dedication of Disneyland.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Main Gate/11 Main Street U.S.A._ Walt Disney_s Dedication of Disneyland.mp3",
 		poster:"AlbumArt/Main Gate.png",
 		album:"Main Gate",
 		comments:"Track source: soundsofdisneyland.com"
@@ -438,7 +438,7 @@ var disc4 = [
 		title:"All Aboard!",
 		artist:"Walt Disney",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Disneyland Railroad/01 All Aboard!.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Disneyland Railroad/01 All Aboard!.mp3",
 		poster:"AlbumArt/Disneyland Railroad.png",
 		album:"Disneyland Railroad",
 		comments:"Track source: soundsofdisneyland.com"
@@ -456,7 +456,7 @@ var disc4 = [
 		title:"Depot Announcements",
 		artist:"Walt Disney",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Disneyland Railroad/03 Depot Announcements.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Disneyland Railroad/03 Depot Announcements.mp3",
 		poster:"AlbumArt/Disneyland Railroad.png",
 		album:"Disneyland Railroad",
 		comments:"Track source: soundsofdisneyland.com"
@@ -465,7 +465,7 @@ var disc4 = [
 		title:"Grand Circle Tour (1972)",
 		artist:"Walt Disney",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Disneyland Railroad/04 Grand Circle Tour (1972).m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Disneyland Railroad/04 Grand Circle Tour (1972).mp3",
 		poster:"AlbumArt/Disneyland Railroad.png",
 		album:"Disneyland Railroad",
 		comments:"Track source: soundsofdisneyland.com"
@@ -492,7 +492,7 @@ var disc4 = [
 		title:"Narration (2013)",
 		artist:"Walt Disney",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Disneyland Railroad/07 Narration (2013).m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Disneyland Railroad/07 Narration (2013).mp3",
 		poster:"AlbumArt/Disneyland Railroad.png",
 		album:"Disneyland Railroad",
 		comments:"Track source: soundsofdisneyland.com"
@@ -630,7 +630,7 @@ var disc5 = [
 		title:"The Disneyland Band: Disney Fantasy Medley",
 		artist:"Walt Disney",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Town Square/12 The Disneyland Band_ Disney Fantasy Medley.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Town Square/12 The Disneyland Band_ Disney Fantasy Medley.mp3",
 		poster:"AlbumArt/Town Square.png",
 		album:"Town Square",
 		comments:"Track source: soundsofdisneyland.com"
@@ -867,7 +867,7 @@ var disc6 = [
 		title:"Music Loop (2009)",
 		artist:"Walt Disney",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/The Disney Gallery/25 Music Loop (2009).m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/The Disney Gallery/25 Music Loop (2009).mp3",
 		poster:"AlbumArt/The Disney Gallery.png",
 		album:"The Disney Gallery",
 		comments:"Track source: soundsofdisneyland.com"
@@ -951,7 +951,7 @@ var disc7 = [
 		title:"Pre-Show: Soundtrack",
 		artist:"Walt Disney",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Great Moments with Mr. Lincoln/02 Pre-Show_ Soundtrack.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Great Moments with Mr. Lincoln/02 Pre-Show_ Soundtrack.mp3",
 		poster:"AlbumArt/Great Moments with Mr. Lincoln.png",
 		album:"Great Moments with Mr. Lincoln",
 		comments:"Track source: soundsofdisneyland.com"
@@ -960,7 +960,7 @@ var disc7 = [
 		title:"Main Show: Soundtrack",
 		artist:"Walt Disney",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Great Moments with Mr. Lincoln/03 Main Show_ Soundtrack.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Great Moments with Mr. Lincoln/03 Main Show_ Soundtrack.mp3",
 		poster:"AlbumArt/Great Moments with Mr. Lincoln.png",
 		album:"Great Moments with Mr. Lincoln",
 		comments:"Track source: soundsofdisneyland.com"
@@ -1380,7 +1380,7 @@ var disc9 = [
 		title:"Area Loop: Morning Loop",
 		artist:"Albert White and his Gaslight Orchestra",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Main Street U.S.A. (1976-1992)/21 Area Loop_ Morning Loop.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Main Street U.S.A. (1976-1992)/21 Area Loop_ Morning Loop.mp3",
 		poster:"AlbumArt/Main Street U.S.A. (1976-1992).png",
 		album:"Main Street U.S.A. (1976-1992)",
 		comments:"Track source: soundsofdisneyland.com"
@@ -1401,7 +1401,7 @@ var disc10 = [
 		title:"Area Music: Old Timers Medley",
 		artist:"Walt Disney",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Main Street U.S.A. (1992-2012)/01 Area Music_ Old Timers Medley.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Main Street U.S.A. (1992-2012)/01 Area Music_ Old Timers Medley.mp3",
 		poster:"AlbumArt/Main Street U.S.A. (1992-2012).png",
 		album:"Main Street U.S.A. (1992-2012)",
 		comments:"Track source: soundsofdisneyland.com"
@@ -1539,7 +1539,7 @@ var disc11 = [
 		title:"Area Loop",
 		artist:"Walt Disney",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Main Street U.S.A. (2013)/02 Area Loop.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Main Street U.S.A. (2013)/02 Area Loop.mp3",
 		poster:"AlbumArt/Main Street U.S.A. (2013).png",
 		album:"Main Street U.S.A. (2013)",
 		comments:"Track source: soundsofdisneyland.com"
@@ -1884,7 +1884,7 @@ var disc15 = [
 		title:"Rapunzel's Tower: Area Loop",
 		artist:"Walt Disney",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Fantasy Faire/09 Rapunzel_s Tower_ Area Loop.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Fantasy Faire/09 Rapunzel_s Tower_ Area Loop.mp3",
 		poster:"AlbumArt/Fantasy Faire.png",
 		album:"Fantasy Faire",
 		comments:"Track source: soundsofdisneyland.com"
@@ -1923,7 +1923,7 @@ var disc16 = [
 		title:"Pixie Hollow: Area Loop: Suite",
 		artist:"Joel McNeely",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Pixie Hollow/01 Pixie Hollow_ Area Loop_ Suite.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Pixie Hollow/01 Pixie Hollow_ Area Loop_ Suite.mp3",
 		poster:"AlbumArt/Pixie Hollow.png",
 		album:"Pixie Hollow",
 		comments:"Track source: soundsofdisneyland.com"
@@ -1998,7 +1998,7 @@ var disc17 = [
 		title:"Sleeping Beauty Castle: Area Music (1992): Castle Medley",
 		artist:"Walt Disney",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Sleeping Beauty Castle/02 Sleeping Beauty Castle_ Area Music (1992)_ Castle Medley.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Sleeping Beauty Castle/02 Sleeping Beauty Castle_ Area Music (1992)_ Castle Medley.mp3",
 		poster:"AlbumArt/Sleeping Beauty Castle.png",
 		album:"Sleeping Beauty Castle",
 		comments:"Track source: soundsofdisneyland.com"
@@ -2118,7 +2118,7 @@ var disc18 = [
 		title:"Darkride Suite",
 		artist:"Walt Disney",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Dark Rides/01 Darkride Suite.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Dark Rides/01 Darkride Suite.mp3",
 		poster:"AlbumArt/Dark Rides.png",
 		album:"Dark Rides",
 		comments:"Track source: soundsofdisneyland.com"
@@ -2199,7 +2199,7 @@ var disc18 = [
 		title:"Pinocchio's Daring Journey: Ride Score",
 		artist:"Walt Disney",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Dark Rides/10 Pinocchio_s Daring Journey_ Ride Score.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Dark Rides/10 Pinocchio_s Daring Journey_ Ride Score.mp3",
 		poster:"AlbumArt/Dark Rides 2.png",
 		album:"Dark Rides",
 		comments:"Track source: soundsofdisneyland.com"
@@ -2208,7 +2208,7 @@ var disc18 = [
 		title:"Pinocchio's Daring Journey: Exit Loop",
 		artist:"Walt Disney",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Dark Rides/11 Pinocchio_s Daring Journey_ Exit Loop.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Dark Rides/11 Pinocchio_s Daring Journey_ Exit Loop.mp3",
 		poster:"AlbumArt/Dark Rides 2.png",
 		album:"Dark Rides",
 		comments:"Track source: soundsofdisneyland.com"
@@ -2235,7 +2235,7 @@ var disc18 = [
 		title:"Peter Pan's Flight: Ride Score",
 		artist:"Walt Disney",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Dark Rides/14 Peter Pan_s Flight_ Ride Score.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Dark Rides/14 Peter Pan_s Flight_ Ride Score.mp3",
 		poster:"AlbumArt/Dark Rides 3.png",
 		album:"Dark Rides",
 		comments:"Track source: soundsofdisneyland.com"
@@ -2271,7 +2271,7 @@ var disc18 = [
 		title:"Mr. Toad's Wild Ride: Ride Score",
 		artist:"Walt Disney",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Dark Rides/18 Mr. Toad_s Wild Ride_ Ride Score.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Dark Rides/18 Mr. Toad_s Wild Ride_ Ride Score.mp3",
 		poster:"AlbumArt/Dark Rides 4.png",
 		album:"Dark Rides",
 		comments:"Track source: soundsofdisneyland.com"
@@ -2310,7 +2310,7 @@ var disc19 = [
 		title:"Ride",
 		artist:"Walt Disney",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Alice in Wonderland/04 Ride.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Alice in Wonderland/04 Ride.mp3",
 		poster:"AlbumArt/Alice in Wonderland.png",
 		album:"Alice in Wonderland",
 		comments:"Track source: soundsofdisneyland.com"
@@ -2319,7 +2319,7 @@ var disc19 = [
 		title:"Ride Score",
 		artist:"Walt Disney",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Alice in Wonderland/05 Ride Score.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Alice in Wonderland/05 Ride Score.mp3",
 		poster:"AlbumArt/Alice in Wonderland.png",
 		album:"Alice in Wonderland",
 		comments:"Track source: soundsofdisneyland.com"
@@ -2382,7 +2382,7 @@ var disc19 = [
 		title:"The Tulgey Wood",
 		artist:"Walt Disney",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Alice in Wonderland/12 The Tulgey Wood.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Alice in Wonderland/12 The Tulgey Wood.mp3",
 		poster:"AlbumArt/Alice in Wonderland.png",
 		album:"Alice in Wonderland",
 		comments:"Track source: soundsofdisneyland.com"
@@ -2427,7 +2427,7 @@ var disc19 = [
 		title:"March of the Cards 3",
 		artist:"Walt Disney",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Alice in Wonderland/17 March of the Cards 3.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Alice in Wonderland/17 March of the Cards 3.mp3",
 		poster:"AlbumArt/Alice in Wonderland.png",
 		album:"Alice in Wonderland",
 		comments:"Track source: soundsofdisneyland.com"
@@ -2436,7 +2436,7 @@ var disc19 = [
 		title:"March of the Cards 4",
 		artist:"Walt Disney",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Alice in Wonderland/18 March of the Cards 4.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Alice in Wonderland/18 March of the Cards 4.mp3",
 		poster:"AlbumArt/Alice in Wonderland.png",
 		album:"Alice in Wonderland",
 		comments:"Track source: soundsofdisneyland.com"
@@ -2484,7 +2484,7 @@ var disc20 = [
 		title:"Entrance Music (1964)",
 		artist:"Sherman & Sherman",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/It's a Small World/03 Entrance Music (1964).m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/It's a Small World/03 Entrance Music (1964).mp3",
 		poster:"AlbumArt/It_s a Small World.png",
 		album:"It's a Small World",
 		comments:"Track source: soundsofdisneyland.com"
@@ -2502,7 +2502,7 @@ var disc20 = [
 		title:"Queue Loop (1983)",
 		artist:"Sherman & Sherman",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/It's a Small World/05 Queue Loop (1983).m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/It's a Small World/05 Queue Loop (1983).mp3",
 		poster:"AlbumArt/It_s a Small World.png",
 		album:"It's a Small World",
 		comments:"Track source: soundsofdisneyland.com"
@@ -2529,7 +2529,7 @@ var disc20 = [
 		title:"Variation II",
 		artist:"Sherman & Sherman",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/It's a Small World/08 Variation II.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/It's a Small World/08 Variation II.mp3",
 		poster:"AlbumArt/It_s a Small World.png",
 		album:"It's a Small World",
 		comments:"Track source: soundsofdisneyland.com"
@@ -2538,7 +2538,7 @@ var disc20 = [
 		title:"Medley",
 		artist:"Sherman & Sherman",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/It's a Small World/09 Medley.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/It's a Small World/09 Medley.mp3",
 		poster:"AlbumArt/It_s a Small World.png",
 		album:"It's a Small World",
 		comments:"Track source: soundsofdisneyland.com"
@@ -2556,7 +2556,7 @@ var disc20 = [
 		title:"Float Through (Extended)",
 		artist:"Sherman & Sherman",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/It's a Small World/11 Float Through (Extended).m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/It's a Small World/11 Float Through (Extended).mp3",
 		poster:"AlbumArt/It_s a Small World.png",
 		album:"It's a Small World",
 		comments:"Track source: soundsofdisneyland.com"
@@ -2592,7 +2592,7 @@ var disc20 = [
 		title:"Exit Music",
 		artist:"Sherman & Sherman",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/It's a Small World/15 Exit Music.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/It's a Small World/15 Exit Music.mp3",
 		poster:"AlbumArt/It_s a Small World.png",
 		album:"It's a Small World",
 		comments:"Track source: soundsofdisneyland.com"
@@ -2697,7 +2697,7 @@ var disc22 = [
 		title:"Area Soundscape",
 		artist:"Walt Disney",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Matterhorn Bobsleds/09 Area Soundscape.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Matterhorn Bobsleds/09 Area Soundscape.mp3",
 		poster:"AlbumArt/Matterhorn Bobsleds.png",
 		album:"Matterhorn Bobsleds",
 		comments:"Track source: soundsofdisneyland.com"
@@ -2931,7 +2931,7 @@ var disc25 = [
 		title:"Enchanted Tiki Garden: Area Loop (1971-1985)",
 		artist:"Jack Wagner",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Enchanted Tiki Room/06 Enchanted Tiki Garden_ Area Loop (1971-1985).m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Enchanted Tiki Room/06 Enchanted Tiki Garden_ Area Loop (1971-1985).mp3",
 		poster:"AlbumArt/Enchanted Tiki Room.png",
 		album:"Enchanted Tiki Room",
 		comments:"Track source: soundsofdisneyland.com"
@@ -2949,7 +2949,7 @@ var disc25 = [
 		title:"Enchanted Tiki Juice Bar: Dole Pineapple Loop",
 		artist:"Walt Disney",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Enchanted Tiki Room/08 Enchanted Tiki Juice Bar_ Dole Pineapple Loop.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Enchanted Tiki Room/08 Enchanted Tiki Juice Bar_ Dole Pineapple Loop.mp3",
 		poster:"AlbumArt/Enchanted Tiki Room.png",
 		album:"Enchanted Tiki Room",
 		comments:"Track source: soundsofdisneyland.com"
@@ -2967,7 +2967,7 @@ var disc25 = [
 		title:"Enchanted Tiki Room: The Tiki Tiki Tiki Room",
 		artist:"Sherman & Sherman",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Enchanted Tiki Room/10 Enchanted Tiki Room_ The Tiki Tiki Tiki Room.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Enchanted Tiki Room/10 Enchanted Tiki Room_ The Tiki Tiki Tiki Room.mp3",
 		poster:"AlbumArt/Enchanted Tiki Room.png",
 		album:"Enchanted Tiki Room",
 		comments:"Track source: soundsofdisneyland.com"
@@ -3003,7 +3003,7 @@ var disc25 = [
 		title:"Enchanted Tiki Room: Full Show",
 		artist:"Walt Disney",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Enchanted Tiki Room/14 Enchanted Tiki Room_ Full Show.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Enchanted Tiki Room/14 Enchanted Tiki Room_ Full Show.mp3",
 		poster:"AlbumArt/Enchanted Tiki Room.png",
 		album:"Enchanted Tiki Room",
 		comments:"Track source: soundsofdisneyland.com"
@@ -3150,7 +3150,7 @@ var disc26 = [
 		title:"Radio Queue Music (1991 - 1995): Jeepers Creepers",
 		artist:"Louis Armstrong",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Jungle Cruise/06 Radio Queue Music (1991 - 1995)_ Jeepers Creepers.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Jungle Cruise/06 Radio Queue Music (1991 - 1995)_ Jeepers Creepers.mp3",
 		poster:"AlbumArt/Jungle Cruise.png",
 		album:"Jungle Cruise",
 		comments:"Track source: soundsofdisneyland.com"
@@ -3159,7 +3159,7 @@ var disc26 = [
 		title:"Radio Queue Music (1991 - 1995): Yes, Yes (My Baby Said Yes)",
 		artist:"Ambrose and His Orchestra",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Jungle Cruise/07 Radio Queue Music (1991 - 1995)_ Yes, Yes (My Baby Said Yes).m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Jungle Cruise/07 Radio Queue Music (1991 - 1995)_ Yes, Yes (My Baby Said Yes).mp3",
 		poster:"AlbumArt/Jungle Cruise.png",
 		album:"Jungle Cruise",
 		comments:"Track source: soundsofdisneyland.com"
@@ -3168,7 +3168,7 @@ var disc26 = [
 		title:"Radio Queue Music (1991 - 1995): Song of India",
 		artist:"Rimsky/Korsakoy/arr.Grofe",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Jungle Cruise/08 Radio Queue Music (1991 - 1995)_ Song of India.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Jungle Cruise/08 Radio Queue Music (1991 - 1995)_ Song of India.mp3",
 		poster:"AlbumArt/Jungle Cruise.png",
 		album:"Jungle Cruise",
 		comments:"Track source: soundsofdisneyland.com"
@@ -3177,7 +3177,7 @@ var disc26 = [
 		title:"Radio Queue Music (1991 - 1995): It's the Girl",
 		artist:"Baer",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Jungle Cruise/09 Radio Queue Music (1991 - 1995)_ It_s the Girl.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Jungle Cruise/09 Radio Queue Music (1991 - 1995)_ It_s the Girl.mp3",
 		poster:"AlbumArt/Jungle Cruise.png",
 		album:"Jungle Cruise",
 		comments:"Track source: soundsofdisneyland.com"
@@ -3186,7 +3186,7 @@ var disc26 = [
 		title:"Radio Queue Music (1991 - 1995): Rhythm King",
 		artist:"Coon-Sanders",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Jungle Cruise/10 Radio Queue Music (1991 - 1995)_ Rhythm King.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Jungle Cruise/10 Radio Queue Music (1991 - 1995)_ Rhythm King.mp3",
 		poster:"AlbumArt/Jungle Cruise.png",
 		album:"Jungle Cruise",
 		comments:"Track source: soundsofdisneyland.com"
@@ -3195,7 +3195,7 @@ var disc26 = [
 		title:"Radio Queue Music (1991 - 1995): Love Is Good For Anything That Ails You",
 		artist:"Ida Sue McCune",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Jungle Cruise/11 Radio Queue Music (1991 - 1995)_ Love Is Good For Anything That Ails You.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Jungle Cruise/11 Radio Queue Music (1991 - 1995)_ Love Is Good For Anything That Ails You.mp3",
 		poster:"AlbumArt/Jungle Cruise.png",
 		album:"Jungle Cruise",
 		comments:"Track source: soundsofdisneyland.com"
@@ -3204,7 +3204,7 @@ var disc26 = [
 		title:"Radio Queue Music (1991 - 1995): Harlem River Quiver",
 		artist:"Duke Ellington",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Jungle Cruise/12 Radio Queue Music (1991 - 1995)_ Harlem River Quiver.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Jungle Cruise/12 Radio Queue Music (1991 - 1995)_ Harlem River Quiver.mp3",
 		poster:"AlbumArt/Jungle Cruise.png",
 		album:"Jungle Cruise",
 		comments:"Track source: soundsofdisneyland.com"
@@ -3213,7 +3213,7 @@ var disc26 = [
 		title:"Radio Queue Music (1991 - 1995): What a Girl! What a Night!",
 		artist:"Coon-Sanders",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Jungle Cruise/13 Radio Queue Music (1991 - 1995)_ What a Girl! What a Night!.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Jungle Cruise/13 Radio Queue Music (1991 - 1995)_ What a Girl! What a Night!.mp3",
 		poster:"AlbumArt/Jungle Cruise.png",
 		album:"Jungle Cruise",
 		comments:"Track source: soundsofdisneyland.com"
@@ -3222,7 +3222,7 @@ var disc26 = [
 		title:"Radio Queue Music (1991 - 1995): Anything Goes",
 		artist:"Paul Whiteman",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Jungle Cruise/14 Radio Queue Music (1991 - 1995)_ Anything Goes.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Jungle Cruise/14 Radio Queue Music (1991 - 1995)_ Anything Goes.mp3",
 		poster:"AlbumArt/Jungle Cruise.png",
 		album:"Jungle Cruise",
 		comments:"Track source: soundsofdisneyland.com"
@@ -3240,7 +3240,7 @@ var disc26 = [
 		title:"Radio Queue Music (1991 - 1995): The King's Horses",
 		artist:" Jack Hylton",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Jungle Cruise/16 Radio Queue Music (1991 - 1995)_ The King_s Horses.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Jungle Cruise/16 Radio Queue Music (1991 - 1995)_ The King_s Horses.mp3",
 		poster:"AlbumArt/Jungle Cruise.png",
 		album:"Jungle Cruise",
 		comments:"Track source: soundsofdisneyland.com"
@@ -3258,7 +3258,7 @@ var disc26 = [
 		title:"Radio Queue Music (1995): As Time Goes By",
 		artist:"Adelaide Hall",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Jungle Cruise/18 Radio Queue Music (1995)_ As Time Goes By.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Jungle Cruise/18 Radio Queue Music (1995)_ As Time Goes By.mp3",
 		poster:"AlbumArt/Jungle Cruise.png",
 		album:"Jungle Cruise",
 		comments:"Track source: soundsofdisneyland.com"
@@ -3267,7 +3267,7 @@ var disc26 = [
 		title:"Radio Queue Music (1995): Moonglow",
 		artist:"Will Hudson, Eddie DeLange & Irving Mills",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Jungle Cruise/19 Radio Queue Music (1995)_ Moonglow.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Jungle Cruise/19 Radio Queue Music (1995)_ Moonglow.mp3",
 		poster:"AlbumArt/Jungle Cruise.png",
 		album:"Jungle Cruise",
 		comments:"Track source: soundsofdisneyland.com"
@@ -3276,7 +3276,7 @@ var disc26 = [
 		title:"Radio Queue Music (1995): Sentimental Journey",
 		artist:"The Merry Macs",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Jungle Cruise/20 Radio Queue Music (1995)_ Sentimental Journey.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Jungle Cruise/20 Radio Queue Music (1995)_ Sentimental Journey.mp3",
 		poster:"AlbumArt/Jungle Cruise.png",
 		album:"Jungle Cruise",
 		comments:"Track source: soundsofdisneyland.com"
@@ -3285,7 +3285,7 @@ var disc26 = [
 		title:"Radio Queue Music (1995): Deep Purple",
 		artist:"Peter DeRose & Mitchell Parish",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Jungle Cruise/22 Radio Queue Music (1995)_ Deep Purple.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Jungle Cruise/22 Radio Queue Music (1995)_ Deep Purple.mp3",
 		poster:"AlbumArt/Jungle Cruise.png",
 		album:"Jungle Cruise",
 		comments:"Track source: soundsofdisneyland.com"
@@ -3294,7 +3294,7 @@ var disc26 = [
 		title:"Radio Queue Music (1995): Moon Over Burma",
 		artist:"Dorothy Lamour",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Jungle Cruise/23 Radio Queue Music (1995)_ Moon Over Burma.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Jungle Cruise/23 Radio Queue Music (1995)_ Moon Over Burma.mp3",
 		poster:"AlbumArt/Jungle Cruise.png",
 		album:"Jungle Cruise",
 		comments:"Track source: soundsofdisneyland.com"
@@ -3303,7 +3303,7 @@ var disc26 = [
 		title:"Radio Queue Music (1995): Flamingo",
 		artist:"Duke Ellington & Herb Jeffries",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Jungle Cruise/24 Radio Queue Music (1995)_ Flamingo.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Jungle Cruise/24 Radio Queue Music (1995)_ Flamingo.mp3",
 		poster:"AlbumArt/Jungle Cruise.png",
 		album:"Jungle Cruise",
 		comments:"Track source: soundsofdisneyland.com"
@@ -3312,7 +3312,7 @@ var disc26 = [
 		title:"Radio Queue Music (1995): On a Slow Boat to China",
 		artist:"F. Loesser",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Jungle Cruise/25 Radio Queue Music (1995)_ On a Slow Boat to China.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Jungle Cruise/25 Radio Queue Music (1995)_ On a Slow Boat to China.mp3",
 		poster:"AlbumArt/Jungle Cruise.png",
 		album:"Jungle Cruise",
 		comments:"Track source: soundsofdisneyland.com"
@@ -3321,7 +3321,7 @@ var disc26 = [
 		title:"Radio Queue Music (1995): Sing, Sing, Sing",
 		artist:"Louis Prima",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Jungle Cruise/26 Radio Queue Music (1995)_ Sing, Sing, Sing.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Jungle Cruise/26 Radio Queue Music (1995)_ Sing, Sing, Sing.mp3",
 		poster:"AlbumArt/Jungle Cruise.png",
 		album:"Jungle Cruise",
 		comments:"Track source: soundsofdisneyland.com"
@@ -3330,7 +3330,7 @@ var disc26 = [
 		title:"Radio Queue Music (1995): I'll Be Seeing You",
 		artist:"Sammy Fain",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Jungle Cruise/27 Radio Queue Music (1995)_ I_ll Be Seeing You.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Jungle Cruise/27 Radio Queue Music (1995)_ I_ll Be Seeing You.mp3",
 		poster:"AlbumArt/Jungle Cruise.png",
 		album:"Jungle Cruise",
 		comments:"Track source: soundsofdisneyland.com"
@@ -3339,7 +3339,7 @@ var disc26 = [
 		title:"Radio Queue Music (1995): When Buddha Smiles",
 		artist:"Nacio Herb Brown & Arthur Freed",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Jungle Cruise/28 Radio Queue Music (1995)_ When Buddha Smiles.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Jungle Cruise/28 Radio Queue Music (1995)_ When Buddha Smiles.mp3",
 		poster:"AlbumArt/Jungle Cruise.png",
 		album:"Jungle Cruise",
 		comments:"Track source: soundsofdisneyland.com"
@@ -3348,7 +3348,7 @@ var disc26 = [
 		title:"Radio Queue Music (1995): Goodnight Wherever You Are",
 		artist:"Harry Leader",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Jungle Cruise/29 Radio Queue Music (1995)_ Goodnight Wherever You Are.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Jungle Cruise/29 Radio Queue Music (1995)_ Goodnight Wherever You Are.mp3",
 		poster:"AlbumArt/Jungle Cruise.png",
 		album:"Jungle Cruise",
 		comments:"Track source: soundsofdisneyland.com"
@@ -3357,7 +3357,7 @@ var disc26 = [
 		title:"Radio Queue Music (1995): Moonlight On the Ganges",
 		artist:"Jimmy Dorsey",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Jungle Cruise/30 Radio Queue Music (1995)_ Moonlight On the Ganges.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Jungle Cruise/30 Radio Queue Music (1995)_ Moonlight On the Ganges.mp3",
 		poster:"AlbumArt/Jungle Cruise.png",
 		album:"Jungle Cruise",
 		comments:"Track source: soundsofdisneyland.com"
@@ -3366,7 +3366,7 @@ var disc26 = [
 		title:"Radio Queue Music (1995): Someone's Rocking My Dreamboat",
 		artist:"Leon Rene, Otis Rene & Emerson Scott",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Jungle Cruise/31 Radio Queue Music (1995)_ Someone_s Rocking My Dreamboat.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Jungle Cruise/31 Radio Queue Music (1995)_ Someone_s Rocking My Dreamboat.mp3",
 		poster:"AlbumArt/Jungle Cruise.png",
 		album:"Jungle Cruise",
 		comments:"Track source: soundsofdisneyland.com"
@@ -3375,7 +3375,7 @@ var disc26 = [
 		title:"Radio Queue Music (1995): Moonlight Serenade",
 		artist:"Mitchell Parish & Glenn Miller",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Jungle Cruise/32 Radio Queue Music (1995)_ Moonlight Serenade.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Jungle Cruise/32 Radio Queue Music (1995)_ Moonlight Serenade.mp3",
 		poster:"AlbumArt/Jungle Cruise.png",
 		album:"Jungle Cruise",
 		comments:"Track source: soundsofdisneyland.com"
@@ -3420,7 +3420,7 @@ var disc26 = [
 		title:"Radio Queue Music (1995): Intermezzo (NEW)",
 		artist:"Robert Henning & Heinz Provost",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Jungle Cruise/21 Radio Queue Music (1995)_ Intermezzo.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Jungle Cruise/21 Radio Queue Music (1995)_ Intermezzo.mp3",
 		poster:"AlbumArt/Jungle Cruise.png",
 		album:"Jungle Cruise",
 		comments:"Track source: soundsofdisneyland.com"
@@ -3468,7 +3468,7 @@ var disc27 = [
 		title:"Radio Loop: (I Got Spurs That) Jingle, Jangle, Jingle",
 		artist:"Kay Kyser and His Orchestra",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Indiana Jones Adventure/05 Radio Loop_ (I Got Spurs That) Jingle, Jangle, Jingle.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Indiana Jones Adventure/05 Radio Loop_ (I Got Spurs That) Jingle, Jangle, Jingle.mp3",
 		poster:"AlbumArt/Indiana Jones Adventure.png",
 		album:"Indiana Jones Adventure",
 		comments:"Track source: soundsofdisneyland.com"
@@ -3477,7 +3477,7 @@ var disc27 = [
 		title:"Radio Loop: Let's Dance",
 		artist:"F. Baldridge, G. Stone & J. Bonime",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Indiana Jones Adventure/06 Radio Loop_ Let_s Dance.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Indiana Jones Adventure/06 Radio Loop_ Let_s Dance.mp3",
 		poster:"AlbumArt/Indiana Jones Adventure.png",
 		album:"Indiana Jones Adventure",
 		comments:"Track source: soundsofdisneyland.com"
@@ -3486,7 +3486,7 @@ var disc27 = [
 		title:"Radio Loop: Deep Purple",
 		artist:"Artie Shaw",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Indiana Jones Adventure/07 Radio Loop_ Deep Purple.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Indiana Jones Adventure/07 Radio Loop_ Deep Purple.mp3",
 		poster:"AlbumArt/Indiana Jones Adventure.png",
 		album:"Indiana Jones Adventure",
 		comments:"Track source: soundsofdisneyland.com"
@@ -3495,7 +3495,7 @@ var disc27 = [
 		title:"Radio Loop: Jukebox Saturday Night",
 		artist:"Glenn Miller and His Orchestra",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Indiana Jones Adventure/08 Radio Loop_ Jukebox Saturday Night.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Indiana Jones Adventure/08 Radio Loop_ Jukebox Saturday Night.mp3",
 		poster:"AlbumArt/Indiana Jones Adventure.png",
 		album:"Indiana Jones Adventure",
 		comments:"Track source: soundsofdisneyland.com"
@@ -3504,7 +3504,7 @@ var disc27 = [
 		title:"Radio Loop: In the Mood",
 		artist:"Glenn Miller and His Orchestra",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Indiana Jones Adventure/09 Radio Loop_ In the Mood.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Indiana Jones Adventure/09 Radio Loop_ In the Mood.mp3",
 		poster:"AlbumArt/Indiana Jones Adventure.png",
 		album:"Indiana Jones Adventure",
 		comments:"Track source: soundsofdisneyland.com"
@@ -3513,7 +3513,7 @@ var disc27 = [
 		title:"Radio Loop: There Goes That Song Again",
 		artist:"Kay Kyser and His Orchestra",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Indiana Jones Adventure/10 Radio Loop_ There Goes That Song Again.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Indiana Jones Adventure/10 Radio Loop_ There Goes That Song Again.mp3",
 		poster:"AlbumArt/Indiana Jones Adventure.png",
 		album:"Indiana Jones Adventure",
 		comments:"Track source: soundsofdisneyland.com"
@@ -3522,7 +3522,7 @@ var disc27 = [
 		title:"Radio Loop: In a Little Spanish Town",
 		artist:"Tommy Dorsey",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Indiana Jones Adventure/11 Radio Loop_ In a Little Spanish Town.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Indiana Jones Adventure/11 Radio Loop_ In a Little Spanish Town.mp3",
 		poster:"AlbumArt/Indiana Jones Adventure.png",
 		album:"Indiana Jones Adventure",
 		comments:"Track source: soundsofdisneyland.com"
@@ -3531,7 +3531,7 @@ var disc27 = [
 		title:"Radio Loop: Indian Summer",
 		artist:"Kay Kyser and His Orchestra & Ginny Simms",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Indiana Jones Adventure/12 Radio Loop_ Indian Summer.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Indiana Jones Adventure/12 Radio Loop_ Indian Summer.mp3",
 		poster:"AlbumArt/Indiana Jones Adventure.png",
 		album:"Indiana Jones Adventure",
 		comments:"Track source: soundsofdisneyland.com"
@@ -3540,7 +3540,7 @@ var disc27 = [
 		title:"Radio Loop: Harlem Rhythm Dance",
 		artist:"Claude Hopkins",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Indiana Jones Adventure/13 Radio Loop_ Harlem Rhythm Dance.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Indiana Jones Adventure/13 Radio Loop_ Harlem Rhythm Dance.mp3",
 		poster:"AlbumArt/Indiana Jones Adventure.png",
 		album:"Indiana Jones Adventure",
 		comments:"Track source: soundsofdisneyland.com"
@@ -3549,7 +3549,7 @@ var disc27 = [
 		title:"Radio Loop: Little Brown Jug",
 		artist:"Glenn Miller and His Orchestra",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Indiana Jones Adventure/14 Radio Loop_ Little Brown Jug.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Indiana Jones Adventure/14 Radio Loop_ Little Brown Jug.mp3",
 		poster:"AlbumArt/Indiana Jones Adventure.png",
 		album:"Indiana Jones Adventure",
 		comments:"Track source: soundsofdisneyland.com"
@@ -3558,7 +3558,7 @@ var disc27 = [
 		title:"Radio Loop: In the Shade of the Old Apple Tree",
 		artist:"Claude Hopkins",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Indiana Jones Adventure/15 Radio Loop_ In the Shade of the Old Apple Tree.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Indiana Jones Adventure/15 Radio Loop_ In the Shade of the Old Apple Tree.mp3",
 		poster:"AlbumArt/Indiana Jones Adventure.png",
 		album:"Indiana Jones Adventure",
 		comments:"Track source: soundsofdisneyland.com"
@@ -3567,7 +3567,7 @@ var disc27 = [
 		title:"Radio Loop: Song of India",
 		artist:"Tommy Dorsey",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Indiana Jones Adventure/16 Radio Loop_ Song of India.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Indiana Jones Adventure/16 Radio Loop_ Song of India.mp3",
 		poster:"AlbumArt/Indiana Jones Adventure.png",
 		album:"Indiana Jones Adventure",
 		comments:"Track source: soundsofdisneyland.com"
@@ -3576,7 +3576,7 @@ var disc27 = [
 		title:"Radio Loop: Moonlight Serenade",
 		artist:"Glenn Miller and His Orchestra",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Indiana Jones Adventure/17 Radio Loop_ Moonlight Serenade.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Indiana Jones Adventure/17 Radio Loop_ Moonlight Serenade.mp3",
 		poster:"AlbumArt/Indiana Jones Adventure.png",
 		album:"Indiana Jones Adventure",
 		comments:"Track source: soundsofdisneyland.com"
@@ -3621,7 +3621,7 @@ var disc27 = [
 		title:"News Reel",
 		artist:"Walt Disney",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Indiana Jones Adventure/22 News Reel.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Indiana Jones Adventure/22 News Reel.mp3",
 		poster:"AlbumArt/Indiana Jones Adventure.png",
 		album:"Indiana Jones Adventure",
 		comments:"Track source: soundsofdisneyland.com"
@@ -3648,7 +3648,7 @@ var disc27 = [
 		title:"Score",
 		artist:"John Williams",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Indiana Jones Adventure/25 Score.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Indiana Jones Adventure/25 Score.mp3",
 		poster:"AlbumArt/Indiana Jones Adventure.png",
 		album:"Indiana Jones Adventure",
 		comments:"Track source: soundsofdisneyland.com"
@@ -3771,7 +3771,7 @@ var disc29 = [
 		title:"Tarzan's Treehouse: Queue Loop",
 		artist:"Phil Collins",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Adventureland Tree House/02 Tarzan_s Treehouse_ Queue Loop.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Adventureland Tree House/02 Tarzan_s Treehouse_ Queue Loop.mp3",
 		poster:"AlbumArt/Adventureland Tree House.png",
 		album:"Adventureland Tree House",
 		comments:"Track source: soundsofdisneyland.com"
@@ -3780,7 +3780,7 @@ var disc29 = [
 		title:"Tarzan's Treehouse: Sketchroom Loop",
 		artist:"Phil Collins",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Adventureland Tree House/03 Tarzan_s Treehouse_ Sketchroom Loop.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Adventureland Tree House/03 Tarzan_s Treehouse_ Sketchroom Loop.mp3",
 		poster:"AlbumArt/Adventureland Tree House.png",
 		album:"Adventureland Tree House",
 		comments:"Track source: soundsofdisneyland.com"
@@ -3789,7 +3789,7 @@ var disc29 = [
 		title:"Tarzan's Treehouse: Medley",
 		artist:"Phil Collins",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Adventureland Tree House/04 Tarzan_s Treehouse_ Medley.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Adventureland Tree House/04 Tarzan_s Treehouse_ Medley.mp3",
 		poster:"AlbumArt/Adventureland Tree House.png",
 		album:"Adventureland Tree House",
 		comments:"Track source: soundsofdisneyland.com"
@@ -3873,7 +3873,7 @@ var disc30 = [
 		title:"Talking Jolly Roger",
 		artist:"George Bruns & Xavier Antencio",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Pirates of the Caribbean/07 Talking Jolly Roger.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Pirates of the Caribbean/07 Talking Jolly Roger.mp3",
 		poster:"AlbumArt/Pirates of the Caribbean.png",
 		album:"Pirates of the Caribbean",
 		comments:"Track source: soundsofdisneyland.com"
@@ -3963,7 +3963,7 @@ var disc30 = [
 		title:"Float Through (Extended) (2006)",
 		artist:"George Bruns & Xavier Antencio",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Pirates of the Caribbean/17 Float Through (Extended) (2006).m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Pirates of the Caribbean/17 Float Through (Extended) (2006).mp3",
 		poster:"AlbumArt/Pirates of the Caribbean.png",
 		album:"Pirates of the Caribbean",
 		comments:"Track source: soundsofdisneyland.com"
@@ -3972,7 +3972,7 @@ var disc30 = [
 		title:"Medley",
 		artist:"George Bruns & Xavier Antencio",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Pirates of the Caribbean/18 Medley.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Pirates of the Caribbean/18 Medley.mp3",
 		poster:"AlbumArt/Pirates of the Caribbean.png",
 		album:"Pirates of the Caribbean",
 		comments:"Track source: soundsofdisneyland.com"
@@ -4293,7 +4293,7 @@ var disc32 = [
 		title:"Rivers of America Area Loop (Reconstruction)",
 		artist:"George Bruns",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/New Orleans Square/14 Rivers of America Area Loop (Reconstruction).m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/New Orleans Square/14 Rivers of America Area Loop (Reconstruction).mp3",
 		poster:"AlbumArt/New Orleans Square.png",
 		album:"New Orleans Square",
 		comments:"Track source: soundsofdisneyland.com"
@@ -4458,7 +4458,7 @@ var disc33 = [
 		title:"Medley",
 		artist:"Xavier Atencio/Buddy Baker",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Haunted Mansion/17 Medley.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Haunted Mansion/17 Medley.mp3",
 		poster:"AlbumArt/Haunted Mansion.png",
 		album:"Haunted Mansion",
 		comments:"Track source: soundsofdisneyland.com"
@@ -4467,7 +4467,7 @@ var disc33 = [
 		title:"Ride (1969)",
 		artist:"Walt Disney",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Haunted Mansion/18 Ride (1969).m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Haunted Mansion/18 Ride (1969).mp3",
 		poster:"AlbumArt/Haunted Mansion.png",
 		album:"Haunted Mansion",
 		comments:"Track source: soundsofdisneyland.com"
@@ -4476,7 +4476,7 @@ var disc33 = [
 		title:"Ride (2006)",
 		artist:"Walt Disney",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Haunted Mansion/19 Ride (2006).m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Haunted Mansion/19 Ride (2006).mp3",
 		poster:"AlbumArt/Haunted Mansion.png",
 		album:"Haunted Mansion",
 		comments:"Track source: soundsofdisneyland.com"
@@ -4641,7 +4641,7 @@ var disc34 = [
 		title:"Zip-a-Dee-Doo-Dah (Exit Version)",
 		artist:"Allie Wrubel",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Splash Mountain/17 Zip-a-Dee-Doo-Dah (Exit Version).m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Splash Mountain/17 Zip-a-Dee-Doo-Dah (Exit Version).mp3",
 		poster:"AlbumArt/Splash Mountain.png",
 		album:"Splash Mountain",
 		comments:"Track source: soundsofdisneyland.com"
@@ -4650,7 +4650,7 @@ var disc34 = [
 		title:"Medley (2006)",
 		artist:"Allie Wrubel",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Splash Mountain/18 Medley (2006).m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Splash Mountain/18 Medley (2006).mp3",
 		poster:"AlbumArt/Splash Mountain.png",
 		album:"Splash Mountain",
 		comments:"Track source: soundsofdisneyland.com"
@@ -4734,7 +4734,7 @@ var disc35 = [
 		title:"Ride Through 2",
 		artist:"Buddy Baker",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/The Many Adventures of Winnie the Pooh/05 Ride Through 2.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/The Many Adventures of Winnie the Pooh/05 Ride Through 2.mp3",
 		poster:"AlbumArt/The Many Adventures of Winnie the Pooh.png",
 		album:"The Many Adventures of Winnie the Pooh",
 		comments:"Track source: soundsofdisneyland.com"
@@ -5049,7 +5049,7 @@ var disc38 = [
 		title:"The Golden Horseshoe Stage: Billy Hill and the Hillbillies",
 		artist:"Billy Hill and the Hillbillies",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Big Thunder Mountain Railroad/19 The Golden Horseshoe Stage_ Billy Hill and the Hillbillies.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Big Thunder Mountain Railroad/19 The Golden Horseshoe Stage_ Billy Hill and the Hillbillies.mp3",
 		poster:"AlbumArt/Big Thunder Mountain Railroad.png",
 		album:"Big Thunder Mountain Railroad",
 		comments:"Track source: soundsofdisneyland.com"
@@ -5076,7 +5076,7 @@ var disc38 = [
 		title:"Mine Train Through Nature's Wonderland: Rainbow Caverns",
 		artist:"George Bruns",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Big Thunder Mountain Railroad/22 Mine Train Through Nature_s Wonderland_ Rainbow Caverns.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Big Thunder Mountain Railroad/22 Mine Train Through Nature_s Wonderland_ Rainbow Caverns.mp3",
 		poster:"AlbumArt/Big Thunder Mountain Railroad 2.png",
 		album:"Big Thunder Mountain Railroad",
 		comments:"Track source: soundsofdisneyland.com"
@@ -5343,7 +5343,7 @@ var disc40 = [
 		title:"Area Loop",
 		artist:"Walt Disney",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Toontown Area Music/16 Area Loop.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Toontown Area Music/16 Area Loop.mp3",
 		poster:"AlbumArt/Toontown Area Music.png",
 		album:"Toontown Area Music",
 		comments:"Track source: soundsofdisneyland.com"
@@ -5406,7 +5406,7 @@ var disc40 = [
 		title:"Roger Rabbit's Car Toon Spin: Ride",
 		artist:"Walt Disney",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Toontown Area Music/23 Roger Rabbit_s Car Toon Spin_ Ride.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Toontown Area Music/23 Roger Rabbit_s Car Toon Spin_ Ride.mp3",
 		poster:"AlbumArt/Toontown Area Music.png",
 		album:"Toontown Area Music",
 		comments:"Track source: soundsofdisneyland.com"
@@ -5418,7 +5418,7 @@ var disc41 = [
 		title:"Galaxy's Edge: Symphonic Suite",
 		artist:"John Williams",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge/01 Galaxy_s Edge_ Symphonic Suite.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge/01 Galaxy_s Edge_ Symphonic Suite.mp3",
 		poster:"AlbumArt/Star Wars  Galaxy_s Edge.png",
 		album:"Star Wars: Galaxy's Edge",
 		comments:"Track source: soundsofdisneyland.com"
@@ -5427,7 +5427,7 @@ var disc41 = [
 		title:"Galaxy's Edge: Main Title and the Attack on the Jakku Village",
 		artist:"John Williams",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge/02 Galaxy_s Edge_ Main Title and the Attack on the Jakku Village.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge/02 Galaxy_s Edge_ Main Title and the Attack on the Jakku Village.mp3",
 		poster:"AlbumArt/Star Wars  Galaxy_s Edge.png",
 		album:"Star Wars: Galaxy's Edge",
 		comments:"Track source: soundsofdisneyland.com"
@@ -5436,7 +5436,7 @@ var disc41 = [
 		title:"Galaxy's Edge: The Imperial March",
 		artist:"John Williams",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge/03 Galaxy_s Edge_ The Imperial March.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge/03 Galaxy_s Edge_ The Imperial March.mp3",
 		poster:"AlbumArt/Star Wars  Galaxy_s Edge.png",
 		album:"Star Wars: Galaxy's Edge",
 		comments:"Track source: soundsofdisneyland.com"
@@ -5445,7 +5445,7 @@ var disc41 = [
 		title:"Galaxy's Edge: Rey's Theme",
 		artist:"John Williams",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge/04 Galaxy_s Edge_ Rey_s Theme.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge/04 Galaxy_s Edge_ Rey_s Theme.mp3",
 		poster:"AlbumArt/Star Wars  Galaxy_s Edge.png",
 		album:"Star Wars: Galaxy's Edge",
 		comments:"Track source: soundsofdisneyland.com"
@@ -5454,7 +5454,7 @@ var disc41 = [
 		title:"Galaxy's Edge: The March of the Resistance",
 		artist:"John Williams",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge/05 Galaxy_s Edge_ The March of the Resistance.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge/05 Galaxy_s Edge_ The March of the Resistance.mp3",
 		poster:"AlbumArt/Star Wars  Galaxy_s Edge.png",
 		album:"Star Wars: Galaxy's Edge",
 		comments:"Track source: soundsofdisneyland.com"
@@ -5463,7 +5463,7 @@ var disc41 = [
 		title:"Galaxy's Edge: Flying with Chewie",
 		artist:"John Powell",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge/06 Galaxy_s Edge_ Flying with Chewie.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge/06 Galaxy_s Edge_ Flying with Chewie.mp3",
 		poster:"AlbumArt/Star Wars  Galaxy_s Edge.png",
 		album:"Star Wars: Galaxy's Edge",
 		comments:"Track source: soundsofdisneyland.com"
@@ -5472,7 +5472,7 @@ var disc41 = [
 		title:"Galaxy's Edge: Corellia Chase",
 		artist:"John Powell",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge/07 Galaxy_s Edge_ Corellia Chase.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge/07 Galaxy_s Edge_ Corellia Chase.mp3",
 		poster:"AlbumArt/Star Wars  Galaxy_s Edge.png",
 		album:"Star Wars: Galaxy's Edge",
 		comments:"Track source: soundsofdisneyland.com"
@@ -5481,7 +5481,7 @@ var disc41 = [
 		title:"Galaxy's Edge: Kylo Ren Arrives at the Battle",
 		artist:"John Williams",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge/08 Galaxy_s Edge_ Kylo Ren Arrives at the Battle.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge/08 Galaxy_s Edge_ Kylo Ren Arrives at the Battle.mp3",
 		poster:"AlbumArt/Star Wars  Galaxy_s Edge.png",
 		album:"Star Wars: Galaxy's Edge",
 		comments:"Track source: soundsofdisneyland.com"
@@ -5490,7 +5490,7 @@ var disc41 = [
 		title:"Galaxy's Edge: Scherzo for X-Wings",
 		artist:"John Williams",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge/09 Galaxy_s Edge_ Scherzo for X-Wings.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge/09 Galaxy_s Edge_ Scherzo for X-Wings.mp3",
 		poster:"AlbumArt/Star Wars  Galaxy_s Edge.png",
 		album:"Star Wars: Galaxy's Edge",
 		comments:"Track source: soundsofdisneyland.com"
@@ -5499,7 +5499,7 @@ var disc41 = [
 		title:"Galaxy's Edge: Guardians of the Whills Suite",
 		artist:"Michael Giacchino",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge/10 Galaxy_s Edge_ Guardians of the Whills Suite.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge/10 Galaxy_s Edge_ Guardians of the Whills Suite.mp3",
 		poster:"AlbumArt/Star Wars  Galaxy_s Edge.png",
 		album:"Star Wars: Galaxy's Edge",
 		comments:"Track source: soundsofdisneyland.com"
@@ -5508,7 +5508,7 @@ var disc41 = [
 		title:"Galaxy's Edge: The Last Jedi",
 		artist:"John Williams",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge/11 Galaxy_s Edge_ The Last Jedi.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge/11 Galaxy_s Edge_ The Last Jedi.mp3",
 		poster:"AlbumArt/Star Wars  Galaxy_s Edge.png",
 		album:"Star Wars: Galaxy's Edge",
 		comments:"Track source: soundsofdisneyland.com"
@@ -5517,7 +5517,7 @@ var disc41 = [
 		title:"Galaxy's Edge: Jyn Erso & Hope Suite",
 		artist:"Michael Giacchino",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge/12 Galaxy_s Edge_ Jyn Erso & Hope Suite.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge/12 Galaxy_s Edge_ Jyn Erso & Hope Suite.mp3",
 		poster:"AlbumArt/Star Wars  Galaxy_s Edge.png",
 		album:"Star Wars: Galaxy's Edge",
 		comments:"Track source: soundsofdisneyland.com"
@@ -5526,7 +5526,7 @@ var disc41 = [
 		title:"Galaxy's Edge: The Imperial Suite",
 		artist:"Michael Giacchino",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge/13 Galaxy_s Edge_ The Imperial Suite.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge/13 Galaxy_s Edge_ The Imperial Suite.mp3",
 		poster:"AlbumArt/Star Wars  Galaxy_s Edge.png",
 		album:"Star Wars: Galaxy's Edge",
 		comments:"Track source: soundsofdisneyland.com"
@@ -5535,7 +5535,7 @@ var disc41 = [
 		title:"Galaxy's Edge: Across the Stars",
 		artist:"John Williams",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge/14 Galaxy_s Edge_ Across the Stars.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge/14 Galaxy_s Edge_ Across the Stars.mp3",
 		poster:"AlbumArt/Star Wars  Galaxy_s Edge.png",
 		album:"Star Wars: Galaxy's Edge",
 		comments:"Track source: soundsofdisneyland.com"
@@ -5544,7 +5544,7 @@ var disc41 = [
 		title:"Galaxy's Edge: Love Pledge and the Arena",
 		artist:"John Williams",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge/15 Galaxy_s Edge_ Love Pledge and the Arena.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge/15 Galaxy_s Edge_ Love Pledge and the Arena.mp3",
 		poster:"AlbumArt/Star Wars  Galaxy_s Edge.png",
 		album:"Star Wars: Galaxy's Edge",
 		comments:"Track source: soundsofdisneyland.com"
@@ -5553,7 +5553,7 @@ var disc41 = [
 		title:"Galaxy's Edge: Revenge of the Sith",
 		artist:"John Williams",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge/16 Galaxy_s Edge_ Revenge of the Sith.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge/16 Galaxy_s Edge_ Revenge of the Sith.mp3",
 		poster:"AlbumArt/Star Wars  Galaxy_s Edge.png",
 		album:"Star Wars: Galaxy's Edge",
 		comments:"Track source: soundsofdisneyland.com"
@@ -5562,7 +5562,7 @@ var disc41 = [
 		title:"Galaxy's Edge: Anakin vs. Obi-Wan",
 		artist:"John Williams",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge/17 Galaxy_s Edge_ Anakin vs. Obi-Wan.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge/17 Galaxy_s Edge_ Anakin vs. Obi-Wan.mp3",
 		poster:"AlbumArt/Star Wars  Galaxy_s Edge.png",
 		album:"Star Wars: Galaxy's Edge",
 		comments:"Track source: soundsofdisneyland.com"
@@ -5571,7 +5571,7 @@ var disc41 = [
 		title:"Galaxy's Edge: Yoda's Theme",
 		artist:"John Williams",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge/18 Galaxy_s Edge_ Yoda_s Theme.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge/18 Galaxy_s Edge_ Yoda_s Theme.mp3",
 		poster:"AlbumArt/Star Wars  Galaxy_s Edge.png",
 		album:"Star Wars: Galaxy's Edge",
 		comments:"Track source: soundsofdisneyland.com"
@@ -5580,7 +5580,7 @@ var disc41 = [
 		title:"Galaxy's Edge: The Return of the Jedi",
 		artist:"John Williams",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge/19 Galaxy_s Edge_ The Return of the Jedi.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge/19 Galaxy_s Edge_ The Return of the Jedi.mp3",
 		poster:"AlbumArt/Star Wars  Galaxy_s Edge.png",
 		album:"Star Wars: Galaxy's Edge",
 		comments:"Track source: soundsofdisneyland.com"
@@ -5589,7 +5589,7 @@ var disc41 = [
 		title:"Galaxy's Edge: Anakin's Theme",
 		artist:"John Williams",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge/20 Galaxy_s Edge_ Anakin_s Theme.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge/20 Galaxy_s Edge_ Anakin_s Theme.mp3",
 		poster:"AlbumArt/Star Wars  Galaxy_s Edge.png",
 		album:"Star Wars: Galaxy's Edge",
 		comments:"Track source: soundsofdisneyland.com"
@@ -5598,7 +5598,7 @@ var disc41 = [
 		title:"Galaxy's Edge: Jedi Steps and Finale",
 		artist:"John Williams",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge/21 Galaxy_s Edge_ Jedi Steps and Finale.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge/21 Galaxy_s Edge_ Jedi Steps and Finale.mp3",
 		poster:"AlbumArt/Star Wars  Galaxy_s Edge.png",
 		album:"Star Wars: Galaxy's Edge",
 		comments:"Track source: soundsofdisneyland.com"
@@ -5607,7 +5607,7 @@ var disc41 = [
 		title:"Galaxy's Edge: Main Title",
 		artist:"John Williams",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge/22 Galaxy_s Edge_ Main Title.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge/22 Galaxy_s Edge_ Main Title.mp3",
 		poster:"AlbumArt/Star Wars  Galaxy_s Edge.png",
 		album:"Star Wars: Galaxy's Edge",
 		comments:"Track source: soundsofdisneyland.com"
@@ -5616,7 +5616,7 @@ var disc41 = [
 		title:"Galaxy's Edge: Ewok Celebration and Finale",
 		artist:"John Williams",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge/23 Galaxy_s Edge_ Ewok Celebration and Finale.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge/23 Galaxy_s Edge_ Ewok Celebration and Finale.mp3",
 		poster:"AlbumArt/Star Wars  Galaxy_s Edge.png",
 		album:"Star Wars: Galaxy's Edge",
 		comments:"Track source: soundsofdisneyland.com"
@@ -5628,7 +5628,7 @@ var disc42 = [
 		title:"R3X's Playlist #1: Mad About Mad About Me (feat. Figrin D'an and the Modal Nodes)",
 		artist:"John Williams",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge Oga's Cantina/01 R3X_s Playlist No.1_ Mad About Mad About Me (feat. Figrin D_an and the Modal Nodes).m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge Oga's Cantina/01 R3X_s Playlist No.1_ Mad About Mad About Me (feat. Figrin D_an and the Modal Nodes).mp3",
 		poster:"AlbumArt/Star Wars  Galaxy_s Edge Oga_s Cantina.png",
 		album:"Star Wars: Galaxy's Edge Oga's Cantina",
 		comments:"Track source: soundsofdisneyland.com"
@@ -5637,7 +5637,7 @@ var disc42 = [
 		title:"R3X's Playlist #1: Turbulence",
 		artist:"Tamir Muskat & Ori Kaplan",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge Oga's Cantina/02 R3X_s Playlist No.1_ Turbulence.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge Oga's Cantina/02 R3X_s Playlist No.1_ Turbulence.mp3",
 		poster:"AlbumArt/Star Wars  Galaxy_s Edge Oga_s Cantina.png",
 		album:"Star Wars: Galaxy's Edge Oga's Cantina",
 		comments:"Track source: soundsofdisneyland.com"
@@ -5646,7 +5646,7 @@ var disc42 = [
 		title:"R3X's Playlist #1: Bright Suns",
 		artist:"Tamir Muskat & Ori Kaplan",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge Oga's Cantina/03 R3X_s Playlist No.1_ Bright Suns.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge Oga's Cantina/03 R3X_s Playlist No.1_ Bright Suns.mp3",
 		poster:"AlbumArt/Star Wars  Galaxy_s Edge Oga_s Cantina.png",
 		album:"Star Wars: Galaxy's Edge Oga's Cantina",
 		comments:"Track source: soundsofdisneyland.com"
@@ -5655,7 +5655,7 @@ var disc42 = [
 		title:"R3X's Playlist #1: Nama Heh",
 		artist:"Francis Ralls",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge Oga's Cantina/04 R3X_s Playlist No.1_ Nama Heh.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge Oga's Cantina/04 R3X_s Playlist No.1_ Nama Heh.mp3",
 		poster:"AlbumArt/Star Wars  Galaxy_s Edge Oga_s Cantina.png",
 		album:"Star Wars: Galaxy's Edge Oga's Cantina",
 		comments:"Track source: soundsofdisneyland.com"
@@ -5664,7 +5664,7 @@ var disc42 = [
 		title:"R3X's Playlist #1: Oola Shuka",
 		artist:"Judith Hill",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge Oga's Cantina/05 R3X_s Playlist No.1_ Oola Shuka.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge Oga's Cantina/05 R3X_s Playlist No.1_ Oola Shuka.mp3",
 		poster:"AlbumArt/Star Wars  Galaxy_s Edge Oga_s Cantina.png",
 		album:"Star Wars: Galaxy's Edge Oga's Cantina",
 		comments:"Track source: soundsofdisneyland.com"
@@ -5673,7 +5673,7 @@ var disc42 = [
 		title:"R3X's Playlist #1: Beep Boop Bop",
 		artist:"Melissa Atwell",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge Oga's Cantina/06 R3X_s Playlist No.1_ Beep Boop Bop.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge Oga's Cantina/06 R3X_s Playlist No.1_ Beep Boop Bop.mp3",
 		poster:"AlbumArt/Star Wars  Galaxy_s Edge Oga_s Cantina.png",
 		album:"Star Wars: Galaxy's Edge Oga's Cantina",
 		comments:"Track source: soundsofdisneyland.com"
@@ -5682,7 +5682,7 @@ var disc42 = [
 		title:"R3X's Playlist #1: Aloogahoo",
 		artist:"Ryan O'Connell & Valerie Vigoda",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge Oga's Cantina/07 R3X_s Playlist No.1_ Aloogahoo.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge Oga's Cantina/07 R3X_s Playlist No.1_ Aloogahoo.mp3",
 		poster:"AlbumArt/Star Wars  Galaxy_s Edge Oga_s Cantina.png",
 		album:"Star Wars: Galaxy's Edge Oga's Cantina",
 		comments:"Track source: soundsofdisneyland.com"
@@ -5691,7 +5691,7 @@ var disc42 = [
 		title:"R3X's Playlist #1: Bai Tee Tee (feat. Gubz)",
 		artist:"Adam Gubman",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge Oga's Cantina/08 R3X_s Playlist No.1_ Bai Tee Tee (feat. Gubz).m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge Oga's Cantina/08 R3X_s Playlist No.1_ Bai Tee Tee (feat. Gubz).mp3",
 		poster:"AlbumArt/Star Wars  Galaxy_s Edge Oga_s Cantina.png",
 		album:"Star Wars: Galaxy's Edge Oga's Cantina",
 		comments:"Track source: soundsofdisneyland.com"
@@ -5700,7 +5700,7 @@ var disc42 = [
 		title:"R3X's Playlist #1: Modal Notes",
 		artist:"Michael Krämer",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge Oga's Cantina/09 R3X_s Playlist No.1_ Modal Notes.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge Oga's Cantina/09 R3X_s Playlist No.1_ Modal Notes.mp3",
 		poster:"AlbumArt/Star Wars  Galaxy_s Edge Oga_s Cantina.png",
 		album:"Star Wars: Galaxy's Edge Oga's Cantina",
 		comments:"Track source: soundsofdisneyland.com"
@@ -5709,7 +5709,7 @@ var disc42 = [
 		title:"R3X's Playlist #1: Una Duey Dee",
 		artist:"Michael Krämer",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge Oga's Cantina/10 R3X_s Playlist No.1_ Una Duey Dee.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge Oga's Cantina/10 R3X_s Playlist No.1_ Una Duey Dee.mp3",
 		poster:"AlbumArt/Star Wars  Galaxy_s Edge Oga_s Cantina.png",
 		album:"Star Wars: Galaxy's Edge Oga's Cantina",
 		comments:"Track source: soundsofdisneyland.com"
@@ -5718,7 +5718,7 @@ var disc42 = [
 		title:"R3X's Playlist #1: Goola Bukee (feat. YS-5755)",
 		artist:"Zain Effendi & Tyler Martens",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge Oga's Cantina/11 R3X_s Playlist No.1_ Goola Bukee (feat. YS-5755).m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge Oga's Cantina/11 R3X_s Playlist No.1_ Goola Bukee (feat. YS-5755).mp3",
 		poster:"AlbumArt/Star Wars  Galaxy_s Edge Oga_s Cantina.png",
 		album:"Star Wars: Galaxy's Edge Oga's Cantina",
 		comments:"Track source: soundsofdisneyland.com"
@@ -5727,7 +5727,7 @@ var disc42 = [
 		title:"R3X's Playlist #1: Droid World",
 		artist:"Zain Effendi & Dylan Lane",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge Oga's Cantina/12 R3X_s Playlist No.1_ Droid World.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge Oga's Cantina/12 R3X_s Playlist No.1_ Droid World.mp3",
 		poster:"AlbumArt/Star Wars  Galaxy_s Edge Oga_s Cantina.png",
 		album:"Star Wars: Galaxy's Edge Oga's Cantina",
 		comments:"Track source: soundsofdisneyland.com"
@@ -5736,7 +5736,7 @@ var disc42 = [
 		title:"R3X's Playlist #1: Utinni",
 		artist:"Yossi Cohen & Avishay Goren",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge Oga's Cantina/13 R3X_s Playlist No.1_ Utinni.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge Oga's Cantina/13 R3X_s Playlist No.1_ Utinni.mp3",
 		poster:"AlbumArt/Star Wars  Galaxy_s Edge Oga_s Cantina.png",
 		album:"Star Wars: Galaxy's Edge Oga's Cantina",
 		comments:"Track source: soundsofdisneyland.com"
@@ -5745,7 +5745,7 @@ var disc42 = [
 		title:"R3X's Playlist #1: Batuu Boogie (feat. MW-59)",
 		artist:"Jason Mater",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge Oga's Cantina/14 R3X_s Playlist No.1_ Batuu Boogie (feat. MW-59).m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge Oga's Cantina/14 R3X_s Playlist No.1_ Batuu Boogie (feat. MW-59).mp3",
 		poster:"AlbumArt/Star Wars  Galaxy_s Edge Oga_s Cantina.png",
 		album:"Star Wars: Galaxy's Edge Oga's Cantina",
 		comments:"Track source: soundsofdisneyland.com"
@@ -5754,7 +5754,7 @@ var disc42 = [
 		title:"R3X's Playlist #1: Moulee-Rah (feat. RB Snootles)",
 		artist:"Dan Fontana & Roger Butterley",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge Oga's Cantina/15 R3X_s Playlist No.1_ Moulee-Rah (feat. RB Snootles).m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge Oga's Cantina/15 R3X_s Playlist No.1_ Moulee-Rah (feat. RB Snootles).mp3",
 		poster:"AlbumArt/Star Wars  Galaxy_s Edge Oga_s Cantina.png",
 		album:"Star Wars: Galaxy's Edge Oga's Cantina",
 		comments:"Track source: soundsofdisneyland.com"
@@ -5763,7 +5763,7 @@ var disc42 = [
 		title:"R3X's Playlist #1: Doshka",
 		artist:"Tamir Muskat & Ori Kaplan",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge Oga's Cantina/16 R3X_s Playlist No.1_ Doshka.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge Oga's Cantina/16 R3X_s Playlist No.1_ Doshka.mp3",
 		poster:"AlbumArt/Star Wars  Galaxy_s Edge Oga_s Cantina.png",
 		album:"Star Wars: Galaxy's Edge Oga's Cantina",
 		comments:"Track source: soundsofdisneyland.com"
@@ -5772,7 +5772,7 @@ var disc42 = [
 		title:"R3X's Playlist #1: Huttuk Cheeka",
 		artist:"Dan Fontana & Roger Butterley",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge Oga's Cantina/17 R3X_s Playlist No.1_ Huttuk Cheeka.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge Oga's Cantina/17 R3X_s Playlist No.1_ Huttuk Cheeka.mp3",
 		poster:"AlbumArt/Star Wars  Galaxy_s Edge Oga_s Cantina.png",
 		album:"Star Wars: Galaxy's Edge Oga's Cantina",
 		comments:"Track source: soundsofdisneyland.com"
@@ -5781,7 +5781,7 @@ var disc42 = [
 		title:"R3X's Playlist #1: Yocola Ateema",
 		artist:"Dan Fontana & Roger Butterley",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge Oga's Cantina/18 R3X_s Playlist No.1_ Yocola Ateema.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge Oga's Cantina/18 R3X_s Playlist No.1_ Yocola Ateema.mp3",
 		poster:"AlbumArt/Star Wars  Galaxy_s Edge Oga_s Cantina.png",
 		album:"Star Wars: Galaxy's Edge Oga's Cantina",
 		comments:"Track source: soundsofdisneyland.com"
@@ -5790,7 +5790,7 @@ var disc42 = [
 		title:"Cantina Band",
 		artist:"John Williams",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge Oga's Cantina/19 Cantina Band.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge Oga's Cantina/19 Cantina Band.mp3",
 		poster:"AlbumArt/Star Wars  Galaxy_s Edge Oga_s Cantina.png",
 		album:"Star Wars: Galaxy's Edge Oga's Cantina",
 		comments:"Track source: soundsofdisneyland.com"
@@ -5799,7 +5799,7 @@ var disc42 = [
 		title:"Jabba Flow",
 		artist:"Shag Kava",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge Oga's Cantina/20 Jabba Flow.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge Oga's Cantina/20 Jabba Flow.mp3",
 		poster:"AlbumArt/Star Wars  Galaxy_s Edge Oga_s Cantina.png",
 		album:"Star Wars: Galaxy's Edge Oga's Cantina",
 		comments:"Track source: soundsofdisneyland.com"
@@ -5811,7 +5811,7 @@ var disc43 = [
 		title:"Tomorrowland: Area Loop (1989-2003)",
 		artist:"Walt Disney",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Tomorrowland/01 Tomorrowland_ Area Loop (1989-2003).m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Tomorrowland/01 Tomorrowland_ Area Loop (1989-2003).mp3",
 		poster:"AlbumArt/Tomorrowland.png",
 		album:"Tomorrowland",
 		comments:"Track source: soundsofdisneyland.com"
@@ -5820,7 +5820,7 @@ var disc43 = [
 		title:"Tomorrowland: Area Loop (2003)",
 		artist:"Walt Disney",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Tomorrowland/02 Tomorrowland_ Area Loop (2003).m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Tomorrowland/02 Tomorrowland_ Area Loop (2003).mp3",
 		poster:"AlbumArt/Tomorrowland.png",
 		album:"Tomorrowland",
 		comments:"Track source: soundsofdisneyland.com"
@@ -5829,7 +5829,7 @@ var disc43 = [
 		title:"Tomorrowland: Season of the Force Area Loop (2015-2017)",
 		artist:"Walt Disney",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Tomorrowland/03 Tomorrowland_ Season of the Force Area Loop (2015-2017).m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Tomorrowland/03 Tomorrowland_ Season of the Force Area Loop (2015-2017).mp3",
 		poster:"AlbumArt/Tomorrowland.png",
 		album:"Tomorrowland",
 		comments:"Track source: soundsofdisneyland.com"
@@ -5838,7 +5838,7 @@ var disc43 = [
 		title:"Tomorrowland Area Music: Miracles from Molecules/Strange Things (2006)",
 		artist:"Walt Disney",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Tomorrowland/04 Tomorrowland Area Music_ Miracles from Molecules_Strange Things (2006).m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Tomorrowland/04 Tomorrowland Area Music_ Miracles from Molecules_Strange Things (2006).mp3",
 		poster:"AlbumArt/Tomorrowland.png",
 		album:"Tomorrowland",
 		comments:"Track source: soundsofdisneyland.com"
@@ -5847,7 +5847,7 @@ var disc43 = [
 		title:"Tomorrowland Area Music: PeopleMover Loading Platform (1960's Medley)",
 		artist:"Walt Disney",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Tomorrowland/05 Tomorrowland Area Music_ PeopleMover Loading Platform (1960_s Medley).m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Tomorrowland/05 Tomorrowland Area Music_ PeopleMover Loading Platform (1960_s Medley).mp3",
 		poster:"AlbumArt/Tomorrowland.png",
 		album:"Tomorrowland",
 		comments:"Track source: soundsofdisneyland.com"
@@ -5856,7 +5856,7 @@ var disc43 = [
 		title:"Tomorrowland 2055: Theme",
 		artist:"Bruce Broughton",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Tomorrowland/06 Tomorrowland 2055_ Theme.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Tomorrowland/06 Tomorrowland 2055_ Theme.mp3",
 		poster:"AlbumArt/Tomorrowland.png",
 		album:"Tomorrowland",
 		comments:"Track source: soundsofdisneyland.com"
@@ -5865,7 +5865,7 @@ var disc43 = [
 		title:"Tomorrowland 2055: Theme and Fanfare",
 		artist:"Bruce Broughton",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Tomorrowland/07 Tomorrowland 2055_ Theme and Fanfare.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Tomorrowland/07 Tomorrowland 2055_ Theme and Fanfare.mp3",
 		poster:"AlbumArt/Tomorrowland.png",
 		album:"Tomorrowland",
 		comments:"Track source: soundsofdisneyland.com"
@@ -5874,7 +5874,7 @@ var disc43 = [
 		title:"Tomorrowland 2055: Theme: From the Earth to the Moon",
 		artist:"Bruce Broughton",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Tomorrowland/08 Tomorrowland 2055_ Theme_ From the Earth to the Moon.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Tomorrowland/08 Tomorrowland 2055_ Theme_ From the Earth to the Moon.mp3",
 		poster:"AlbumArt/Tomorrowland.png",
 		album:"Tomorrowland",
 		comments:"Track source: soundsofdisneyland.com"
@@ -5883,7 +5883,7 @@ var disc43 = [
 		title:"Tomorrowland 2055: Theme: From the Earth to the Moon (Extended)",
 		artist:"Bruce Broughton",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Tomorrowland/09 Tomorrowland 2055_ Theme_ From the Earth to the Moon (Extended).m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Tomorrowland/09 Tomorrowland 2055_ Theme_ From the Earth to the Moon (Extended).mp3",
 		poster:"AlbumArt/Tomorrowland.png",
 		album:"Tomorrowland",
 		comments:"Track source: soundsofdisneyland.com"
@@ -5892,7 +5892,7 @@ var disc43 = [
 		title:"Buzz Light Year's Astro Blasters: Ride",
 		artist:"Randy Newman",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Tomorrowland/10 Buzz Light Year_s Astro Blasters_ Ride.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Tomorrowland/10 Buzz Light Year_s Astro Blasters_ Ride.mp3",
 		poster:"AlbumArt/Tomorrowland 1.png",
 		album:"Tomorrowland",
 		comments:"Track source: soundsofdisneyland.com"
@@ -5958,7 +5958,7 @@ var disc44 = [
 		title:"Score: The Rocketeer",
 		artist:"James Horner",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Tomorrowland Observatron/07 Score_ The Rocketeer.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Tomorrowland Observatron/07 Score_ The Rocketeer.mp3",
 		poster:"AlbumArt/Tomorrowland Observatron.png",
 		album:"Tomorrowland Observatron",
 		comments:"Track source: soundsofdisneyland.com"
@@ -6042,7 +6042,7 @@ var disc45 = [
 		title:"The Monorail Song",
 		artist:"Buddy Baker",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Disneyland Monorail/07 The Monorail Song.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Disneyland Monorail/07 The Monorail Song.mp3",
 		poster:"AlbumArt/Disneyland Monorail.png",
 		album:"Disneyland Monorail",
 		comments:"Track source: soundsofdisneyland.com"
@@ -6087,7 +6087,7 @@ var disc45 = [
 		title:"World Clock: The South American Way",
 		artist:"George Bruns",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Disneyland Monorail/12 World Clock_ The South American Way.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Disneyland Monorail/12 World Clock_ The South American Way.mp3",
 		poster:"AlbumArt/Disneyland Monorail.png",
 		album:"Disneyland Monorail",
 		comments:"Track source: soundsofdisneyland.com"
@@ -6096,7 +6096,7 @@ var disc45 = [
 		title:"World Clock: Flubber Waltz",
 		artist:"George Bruns",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Disneyland Monorail/13 World Clock_ Flubber Waltz.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Disneyland Monorail/13 World Clock_ Flubber Waltz.mp3",
 		poster:"AlbumArt/Disneyland Monorail.png",
 		album:"Disneyland Monorail",
 		comments:"Track source: soundsofdisneyland.com"
@@ -6105,7 +6105,7 @@ var disc45 = [
 		title:"World Clock: Serengeti Serenade",
 		artist:"George Bruns",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Disneyland Monorail/14 World Clock_ Serengeti Serenade.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Disneyland Monorail/14 World Clock_ Serengeti Serenade.mp3",
 		poster:"AlbumArt/Disneyland Monorail.png",
 		album:"Disneyland Monorail",
 		comments:"Track source: soundsofdisneyland.com"
@@ -6114,7 +6114,7 @@ var disc45 = [
 		title:"World Clock: Moonlight Time in Old Hawaii",
 		artist:"George Bruns",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Disneyland Monorail/15 World Clock_ Moonlight Time in Old Hawaii.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Disneyland Monorail/15 World Clock_ Moonlight Time in Old Hawaii.mp3",
 		poster:"AlbumArt/Disneyland Monorail.png",
 		album:"Disneyland Monorail",
 		comments:"Track source: soundsofdisneyland.com"
@@ -6123,7 +6123,7 @@ var disc45 = [
 		title:"World Clock: Flyin' Ford",
 		artist:"George Bruns",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Disneyland Monorail/16 World Clock_ Flyin_ Ford.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Disneyland Monorail/16 World Clock_ Flyin_ Ford.mp3",
 		poster:"AlbumArt/Disneyland Monorail.png",
 		album:"Disneyland Monorail",
 		comments:"Track source: soundsofdisneyland.com"
@@ -6132,7 +6132,7 @@ var disc45 = [
 		title:"World Clock: La Gaviota",
 		artist:"George Bruns",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Disneyland Monorail/17 World Clock_ La Gaviota.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Disneyland Monorail/17 World Clock_ La Gaviota.mp3",
 		poster:"AlbumArt/Disneyland Monorail.png",
 		album:"Disneyland Monorail",
 		comments:"Track source: soundsofdisneyland.com"
@@ -6141,7 +6141,7 @@ var disc45 = [
 		title:"World Clock: Join The Swing",
 		artist:"George Bruns",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Disneyland Monorail/18 World Clock_ Join The Swing.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Disneyland Monorail/18 World Clock_ Join The Swing.mp3",
 		poster:"AlbumArt/Disneyland Monorail.png",
 		album:"Disneyland Monorail",
 		comments:"Track source: soundsofdisneyland.com"
@@ -6150,7 +6150,7 @@ var disc45 = [
 		title:"World Clock: Disneyland '61",
 		artist:"Sherman & Sherman",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Disneyland Monorail/19 World Clock_ Disneyland _61.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Disneyland Monorail/19 World Clock_ Disneyland _61.mp3",
 		poster:"AlbumArt/Disneyland Monorail.png",
 		album:"Disneyland Monorail",
 		comments:"Track source: soundsofdisneyland.com"
@@ -6171,7 +6171,7 @@ var disc46 = [
 		title:"Score (1987: 2011)",
 		artist:"John Williams",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Tours/02 Score (1987_ 2011).m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Tours/02 Score (1987_ 2011).mp3",
 		poster:"AlbumArt/Star Tours.png",
 		album:"Star Tours",
 		comments:"Track source: soundsofdisneyland.com"
@@ -6198,7 +6198,7 @@ var disc46 = [
 		title:"The Adventures Continue: Music Cues (2011)",
 		artist:"Walt Disney",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Tours/05 The Adventures Continue_ Music Cues (2011).m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Tours/05 The Adventures Continue_ Music Cues (2011).mp3",
 		poster:"AlbumArt/Star Tours.png",
 		album:"Star Tours",
 		comments:"Track source: soundsofdisneyland.com"
@@ -6363,7 +6363,7 @@ var disc47 = [
 		title:"Exit Loop (1977-2001)",
 		artist:"Walt Disney",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Space Mountain/17 Exit Loop (1977-2001).m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Space Mountain/17 Exit Loop (1977-2001).mp3",
 		poster:"AlbumArt/Space Mountain.png",
 		album:"Space Mountain",
 		comments:"Track source: soundsofdisneyland.com"
@@ -6594,7 +6594,7 @@ var disc49 = [
 		title:"There's a Great Big Beautiful Tomorrow: Instrumental",
 		artist:"Sherman & Sherman",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Carousel of Progress/02 There_s a Great Big Beautiful Tomorrow_ Instrumental.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Carousel of Progress/02 There_s a Great Big Beautiful Tomorrow_ Instrumental.mp3",
 		poster:"AlbumArt/Carousel of Progress.png",
 		album:"Carousel of Progress",
 		comments:"Track source: soundsofdisneyland.com"
@@ -6603,7 +6603,7 @@ var disc49 = [
 		title:"There's a Great Big Beautiful Tomorrow: Kaleidophonic Opening",
 		artist:"Sherman & Sherman",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Carousel of Progress/03 There_s a Great Big Beautiful Tomorrow_ Kaleidophonic Opening.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Carousel of Progress/03 There_s a Great Big Beautiful Tomorrow_ Kaleidophonic Opening.mp3",
 		poster:"AlbumArt/Carousel of Progress.png",
 		album:"Carousel of Progress",
 		comments:"Track source: soundsofdisneyland.com"
@@ -6612,7 +6612,7 @@ var disc49 = [
 		title:"There's a Great Big Beautiful Tomorrow: 1890's Variation",
 		artist:"Sherman & Sherman",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Carousel of Progress/04 There_s a Great Big Beautiful Tomorrow_ 1890_s Variation.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Carousel of Progress/04 There_s a Great Big Beautiful Tomorrow_ 1890_s Variation.mp3",
 		poster:"AlbumArt/Carousel of Progress.png",
 		album:"Carousel of Progress",
 		comments:"Track source: soundsofdisneyland.com"
@@ -6621,7 +6621,7 @@ var disc49 = [
 		title:"There's a Great Big Beautiful Tomorrow: Dixieland Variation",
 		artist:"Sherman & Sherman",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Carousel of Progress/05 There_s a Great Big Beautiful Tomorrow_ Dixieland Variation.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Carousel of Progress/05 There_s a Great Big Beautiful Tomorrow_ Dixieland Variation.mp3",
 		poster:"AlbumArt/Carousel of Progress.png",
 		album:"Carousel of Progress",
 		comments:"Track source: soundsofdisneyland.com"
@@ -6630,7 +6630,7 @@ var disc49 = [
 		title:"There's a Great Big Beautiful Tomorrow: 1920's Variation",
 		artist:"Sherman & Sherman",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Carousel of Progress/06 There_s a Great Big Beautiful Tomorrow_ 1920_s Variation.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Carousel of Progress/06 There_s a Great Big Beautiful Tomorrow_ 1920_s Variation.mp3",
 		poster:"AlbumArt/Carousel of Progress.png",
 		album:"Carousel of Progress",
 		comments:"Track source: soundsofdisneyland.com"
@@ -6639,7 +6639,7 @@ var disc49 = [
 		title:"There's a Great Big Beautiful Tomorrow: 1930's Variation",
 		artist:"Sherman & Sherman",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Carousel of Progress/07 There_s a Great Big Beautiful Tomorrow_ 1930_s Variation.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Carousel of Progress/07 There_s a Great Big Beautiful Tomorrow_ 1930_s Variation.mp3",
 		poster:"AlbumArt/Carousel of Progress.png",
 		album:"Carousel of Progress",
 		comments:"Track source: soundsofdisneyland.com"
@@ -6648,7 +6648,7 @@ var disc49 = [
 		title:"There's a Great Big Beautiful Tomorrow: Swing Variation",
 		artist:"Sherman & Sherman",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Carousel of Progress/08 There_s a Great Big Beautiful Tomorrow_ Swing Variation.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Carousel of Progress/08 There_s a Great Big Beautiful Tomorrow_ Swing Variation.mp3",
 		poster:"AlbumArt/Carousel of Progress.png",
 		album:"Carousel of Progress",
 		comments:"Track source: soundsofdisneyland.com"
@@ -6657,7 +6657,7 @@ var disc49 = [
 		title:"There's a Great Big Beautiful Tomorrow: 1960's Variation",
 		artist:"Sherman & Sherman",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Carousel of Progress/09 There_s a Great Big Beautiful Tomorrow_ 1960_s Variation.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Carousel of Progress/09 There_s a Great Big Beautiful Tomorrow_ 1960_s Variation.mp3",
 		poster:"AlbumArt/Carousel of Progress.png",
 		album:"Carousel of Progress",
 		comments:"Track source: soundsofdisneyland.com"
@@ -6666,7 +6666,7 @@ var disc49 = [
 		title:"There's a Great Big Beautiful Tomorrow: Horizons Variation",
 		artist:"Sherman & Sherman",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Carousel of Progress/10 There_s a Great Big Beautiful Tomorrow_ Horizons Variation.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Carousel of Progress/10 There_s a Great Big Beautiful Tomorrow_ Horizons Variation.mp3",
 		poster:"AlbumArt/Carousel of Progress.png",
 		album:"Carousel of Progress",
 		comments:"Track source: soundsofdisneyland.com"
@@ -6675,7 +6675,7 @@ var disc49 = [
 		title:"There's a Great Big Beautiful Tomorrow: Mirror Maze",
 		artist:"Sherman & Sherman",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Carousel of Progress/11 There_s a Great Big Beautiful Tomorrow_ Mirror Maze.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Carousel of Progress/11 There_s a Great Big Beautiful Tomorrow_ Mirror Maze.mp3",
 		poster:"AlbumArt/Carousel of Progress.png",
 		album:"Carousel of Progress",
 		comments:"Track source: soundsofdisneyland.com"
@@ -6684,7 +6684,7 @@ var disc49 = [
 		title:"There's a Great Big Beautiful Tomorrow: Medallion City: Music To Buy Toasters By",
 		artist:"Sherman & Sherman",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Carousel of Progress/12 There_s a Great Big Beautiful Tomorrow_ Medallion City_ Music To Buy Toasters By.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Carousel of Progress/12 There_s a Great Big Beautiful Tomorrow_ Medallion City_ Music To Buy Toasters By.mp3",
 		poster:"AlbumArt/Carousel of Progress.png",
 		album:"Carousel of Progress",
 		comments:"Track source: soundsofdisneyland.com"
@@ -6711,7 +6711,7 @@ var disc49 = [
 		title:"There's a Great Big Beautiful Tomorrow: Progress City: Score II",
 		artist:"Sherman & Sherman",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Carousel of Progress/15 There_s a Great Big Beautiful Tomorrow_ Progress City_ Score II.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Carousel of Progress/15 There_s a Great Big Beautiful Tomorrow_ Progress City_ Score II.mp3",
 		poster:"AlbumArt/Carousel of Progress.png",
 		album:"Carousel of Progress",
 		comments:"Track source: soundsofdisneyland.com"
@@ -6756,7 +6756,7 @@ var disc49 = [
 		title:"Show Medley",
 		artist:"Sherman & Sherman",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Carousel of Progress/20 Show Medley.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Carousel of Progress/20 Show Medley.mp3",
 		poster:"AlbumArt/Carousel of Progress.png",
 		album:"Carousel of Progress",
 		comments:"Track source: soundsofdisneyland.com"
@@ -6774,7 +6774,7 @@ var disc49 = [
 		title:"Full Show (Alternate Universe Version)",
 		artist:"Sherman & Sherman",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Carousel of Progress/22 Full Show (Alternate Universe Version).m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Carousel of Progress/22 Full Show (Alternate Universe Version).mp3",
 		poster:"AlbumArt/Carousel of Progress.png",
 		album:"Carousel of Progress",
 		comments:"Track source: soundsofdisneyland.com"
@@ -6783,7 +6783,7 @@ var disc49 = [
 		title:"Skydome Spectacular: Full Show",
 		artist:"Sherman & Sherman",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Carousel of Progress/23 Skydome Spectacular_ Full Show.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Carousel of Progress/23 Skydome Spectacular_ Full Show.mp3",
 		poster:"AlbumArt/Carousel of Progress.png",
 		album:"Carousel of Progress",
 		comments:"Track source: soundsofdisneyland.com"
@@ -6930,7 +6930,7 @@ var disc50 = [
 		title:"If I Didn't Have You",
 		artist:"Walt Disney",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Buena Vista Street & Carthay Circle/12 If I Didn_t Have You.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Buena Vista Street & Carthay Circle/12 If I Didn_t Have You.mp3",
 		poster:"AlbumArt/Buena Vista Street & Carthay Circle.png",
 		album:"Buena Vista Street & Carthay Circle",
 		comments:"Track source: soundsofdisneyland.com"
@@ -7068,7 +7068,7 @@ var disc51 = [
 		title:"Hollywood Land: Area Loop (2001)",
 		artist:"Walt Disney",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Hollywood Land/01 Hollywood Land_ Area Loop (2001).m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Hollywood Land/01 Hollywood Land_ Area Loop (2001).mp3",
 		poster:"AlbumArt/Hollywood Land.png",
 		album:"Hollywood Land",
 		comments:"Track source: soundsofdisneyland.com"
@@ -7077,7 +7077,7 @@ var disc51 = [
 		title:"Hollywood Land: Area Loop (2012)",
 		artist:"Walt Disney",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Hollywood Land/02 Hollywood Land_ Area Loop (2012).m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Hollywood Land/02 Hollywood Land_ Area Loop (2012).mp3",
 		poster:"AlbumArt/Hollywood Land.png",
 		album:"Hollywood Land",
 		comments:"Track source: soundsofdisneyland.com"
@@ -7104,7 +7104,7 @@ var disc51 = [
 		title:"Disney Studios: Animation Courtyard Area Loop",
 		artist:"Walt Disney",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Hollywood Land/05 Disney Studios_ Animation Courtyard Area Loop.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Hollywood Land/05 Disney Studios_ Animation Courtyard Area Loop.mp3",
 		poster:"AlbumArt/Hollywood Land.png",
 		album:"Hollywood Land",
 		comments:"Track source: soundsofdisneyland.com"
@@ -7131,7 +7131,7 @@ var disc51 = [
 		title:"Aladdin - A Musical Spectacular: Curtain Call",
 		artist:"Alan Menken",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Hollywood Land/08 Aladdin - A Musical Spectacular_ Curtain Call.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Hollywood Land/08 Aladdin - A Musical Spectacular_ Curtain Call.mp3",
 		poster:"AlbumArt/Hollywood Land.png",
 		album:"Hollywood Land",
 		comments:"Track source: soundsofdisneyland.com"
@@ -7140,7 +7140,7 @@ var disc51 = [
 		title:"Aladdin - A Musical Spectacular: Princess Of Agrabah",
 		artist:"Alan Menken",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Hollywood Land/09 Aladdin - A Musical Spectacular_ Princess Of Agrabah.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Hollywood Land/09 Aladdin - A Musical Spectacular_ Princess Of Agrabah.mp3",
 		poster:"AlbumArt/Hollywood Land.png",
 		album:"Hollywood Land",
 		comments:"Track source: soundsofdisneyland.com"
@@ -7149,7 +7149,7 @@ var disc51 = [
 		title:"A Bug's Land - Area Music",
 		artist:"Randy Newman",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Hollywood Land/10 A Bug_s Land - Area Music.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Hollywood Land/10 A Bug_s Land - Area Music.mp3",
 		poster:"AlbumArt/Hollywood Land 1.png",
 		album:"Hollywood Land",
 		comments:"Track source: soundsofdisneyland.com"
@@ -7188,7 +7188,7 @@ var disc52 = [
 		title:"Area Music (2001-2010): The Right Stuff: Breaking the Sound Barrier",
 		artist:"Bill Conti",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Condor Flats/01 Area Music (2001-2010)_ The Right Stuff_ Breaking the Sound Barrier.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Condor Flats/01 Area Music (2001-2010)_ The Right Stuff_ Breaking the Sound Barrier.mp3",
 		poster:"AlbumArt/Condor Flats.png",
 		album:"Condor Flats",
 		comments:"Track source: soundsofdisneyland.com"
@@ -7197,7 +7197,7 @@ var disc52 = [
 		title:"Area Music (2001-2010): The Right Stuff: Almost Ready",
 		artist:"Bill Conti",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Condor Flats/02 Area Music (2001-2010)_ The Right Stuff_ Almost Ready.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Condor Flats/02 Area Music (2001-2010)_ The Right Stuff_ Almost Ready.mp3",
 		poster:"AlbumArt/Condor Flats.png",
 		album:"Condor Flats",
 		comments:"Track source: soundsofdisneyland.com"
@@ -7206,7 +7206,7 @@ var disc52 = [
 		title:"Area Music (2001-2010): The Right Stuff: The Training",
 		artist:"Bill Conti",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Condor Flats/03 Area Music (2001-2010)_ The Right Stuff_ The Training.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Condor Flats/03 Area Music (2001-2010)_ The Right Stuff_ The Training.mp3",
 		poster:"AlbumArt/Condor Flats.png",
 		album:"Condor Flats",
 		comments:"Track source: soundsofdisneyland.com"
@@ -7215,7 +7215,7 @@ var disc52 = [
 		title:"Area Music (2001-2010): The Right Stuff: Yeager's Triumph",
 		artist:"Bill Conti",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Condor Flats/04 Area Music (2001-2010)_ The Right Stuff_ Yeager_s Triumph.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Condor Flats/04 Area Music (2001-2010)_ The Right Stuff_ Yeager_s Triumph.mp3",
 		poster:"AlbumArt/Condor Flats.png",
 		album:"Condor Flats",
 		comments:"Track source: soundsofdisneyland.com"
@@ -7233,7 +7233,7 @@ var disc52 = [
 		title:"Area Music (2001-2010): Battle of the Midway: Midway March",
 		artist:"John Williams",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Condor Flats/06 Area Music (2001-2010)_ Battle of the Midway_ Midway March.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Condor Flats/06 Area Music (2001-2010)_ Battle of the Midway_ Midway March.mp3",
 		poster:"AlbumArt/Condor Flats.png",
 		album:"Condor Flats",
 		comments:"Track source: soundsofdisneyland.com"
@@ -7242,7 +7242,7 @@ var disc52 = [
 		title:"Area Music (2001-2010): Air Force One: The Parachutes",
 		artist:"Jerry Goldmsith",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Condor Flats/07 Area Music (2001-2010)_ Air Force One_ The Parachutes.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Condor Flats/07 Area Music (2001-2010)_ Air Force One_ The Parachutes.mp3",
 		poster:"AlbumArt/Condor Flats.png",
 		album:"Condor Flats",
 		comments:"Track source: soundsofdisneyland.com"
@@ -7251,7 +7251,7 @@ var disc52 = [
 		title:"Area Music (2001-2010): Air Force One: Welcome Aboard Sir",
 		artist:"Jerry Goldsmith",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Condor Flats/08 Area Music (2001-2010)_ Air Force One_ Welcome Aboard Sir.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Condor Flats/08 Area Music (2001-2010)_ Air Force One_ Welcome Aboard Sir.mp3",
 		poster:"AlbumArt/Condor Flats.png",
 		album:"Condor Flats",
 		comments:"Track source: soundsofdisneyland.com"
@@ -7269,7 +7269,7 @@ var disc52 = [
 		title:"Area Music (2001-2010): Liberty Fanfare",
 		artist:"John Williams",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Condor Flats/10 Area Music (2001-2010)_ Liberty Fanfare.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Condor Flats/10 Area Music (2001-2010)_ Liberty Fanfare.mp3",
 		poster:"AlbumArt/Condor Flats.png",
 		album:"Condor Flats",
 		comments:"Track source: soundsofdisneyland.com"
@@ -7314,7 +7314,7 @@ var disc52 = [
 		title:"Area Loop (2001-2010)",
 		artist:"Walt Disney",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Condor Flats/15 Area Loop (2001-2010).m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Condor Flats/15 Area Loop (2001-2010).mp3",
 		poster:"AlbumArt/Condor Flats.png",
 		album:"Condor Flats",
 		comments:"Track source: soundsofdisneyland.com"
@@ -7335,7 +7335,7 @@ var disc53 = [
 		title:"Queue Loop (2001-2005)",
 		artist:"Walt Disney",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Soarin' Over California/01 Queue Loop (2001-2005).m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Soarin' Over California/01 Queue Loop (2001-2005).mp3",
 		poster:"AlbumArt/Soarin_ Over California.png",
 		album:"Soarin' Over California",
 		comments:"Track source: soundsofdisneyland.com"
@@ -7344,7 +7344,7 @@ var disc53 = [
 		title:"Queue Music (2005): Distinguished Gentleman: Girls of Many Nations",
 		artist:"Randy Edelman",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Soarin' Over California/02 Queue Music (2005)_ Distinguished Gentleman_ Girls of Many Nations.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Soarin' Over California/02 Queue Music (2005)_ Distinguished Gentleman_ Girls of Many Nations.mp3",
 		poster:"AlbumArt/Soarin_ Over California.png",
 		album:"Soarin' Over California",
 		comments:"Track source: soundsofdisneyland.com"
@@ -7353,7 +7353,7 @@ var disc53 = [
 		title:"Queue Music (2005): Distinguished Gentleman: Soft Rebellion",
 		artist:"Randy Edelman",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Soarin' Over California/03 Queue Music (2005)_ Distinguished Gentleman_ Soft Rebellion.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Soarin' Over California/03 Queue Music (2005)_ Distinguished Gentleman_ Soft Rebellion.mp3",
 		poster:"AlbumArt/Soarin_ Over California.png",
 		album:"Soarin' Over California",
 		comments:"Track source: soundsofdisneyland.com"
@@ -7362,7 +7362,7 @@ var disc53 = [
 		title:"Queue Music (2005): Distinguished Gentleman: Reprise",
 		artist:"Randy Edelman",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Soarin' Over California/04 Queue Music (2005)_ Distinguished Gentleman_ Reprise.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Soarin' Over California/04 Queue Music (2005)_ Distinguished Gentleman_ Reprise.mp3",
 		poster:"AlbumArt/Soarin_ Over California.png",
 		album:"Soarin' Over California",
 		comments:"Track source: soundsofdisneyland.com"
@@ -7371,7 +7371,7 @@ var disc53 = [
 		title:"Queue Music (2005): The American President: Main Titles",
 		artist:"Marc Shaiman",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Soarin' Over California/05 Queue Music (2005)_ The American President_ Main Titles.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Soarin' Over California/05 Queue Music (2005)_ The American President_ Main Titles.mp3",
 		poster:"AlbumArt/Soarin_ Over California.png",
 		album:"Soarin' Over California",
 		comments:"Track source: soundsofdisneyland.com"
@@ -7380,7 +7380,7 @@ var disc53 = [
 		title:"Queue Music (2005): Battle of the Atlantic Suite: Evening Tide",
 		artist:"Dave Roylance / Bob Gavlin",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Soarin' Over California/06 Queue Music (2005)_ Battle of the Atlantic Suite_ Evening Tide.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Soarin' Over California/06 Queue Music (2005)_ Battle of the Atlantic Suite_ Evening Tide.mp3",
 		poster:"AlbumArt/Soarin_ Over California.png",
 		album:"Soarin' Over California",
 		comments:"Track source: soundsofdisneyland.com"
@@ -7389,7 +7389,7 @@ var disc53 = [
 		title:"Queue Music (2005): Dave: You're On",
 		artist:"James Newton Howard",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Soarin' Over California/07 Queue Music (2005)_ Dave_ You_re On.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Soarin' Over California/07 Queue Music (2005)_ Dave_ You_re On.mp3",
 		poster:"AlbumArt/Soarin_ Over California.png",
 		album:"Soarin' Over California",
 		comments:"Track source: soundsofdisneyland.com"
@@ -7398,7 +7398,7 @@ var disc53 = [
 		title:"Queue Music (2005): Dragon: Victory at Ed Parker's",
 		artist:"Randy Edelman",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Soarin' Over California/08 Queue Music (2005)_ Dragon_ Victory at Ed Parker_s.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Soarin' Over California/08 Queue Music (2005)_ Dragon_ Victory at Ed Parker_s.mp3",
 		poster:"AlbumArt/Soarin_ Over California.png",
 		album:"Soarin' Over California",
 		comments:"Track source: soundsofdisneyland.com"
@@ -7407,7 +7407,7 @@ var disc53 = [
 		title:"Queue Music (2005): Dragon: The Premier of the Big Boss",
 		artist:"Randy Edelman",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Soarin' Over California/09 Queue Music (2005)_ Dragon_ The Premier of the Big Boss.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Soarin' Over California/09 Queue Music (2005)_ Dragon_ The Premier of the Big Boss.mp3",
 		poster:"AlbumArt/Soarin_ Over California.png",
 		album:"Soarin' Over California",
 		comments:"Track source: soundsofdisneyland.com"
@@ -7416,7 +7416,7 @@ var disc53 = [
 		title:"Queue Music (2005): The American President: End Titles",
 		artist:"Marc Shaiman",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Soarin' Over California/10 Queue Music (2005)_ The American President_ End Titles.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Soarin' Over California/10 Queue Music (2005)_ The American President_ End Titles.mp3",
 		poster:"AlbumArt/Soarin_ Over California.png",
 		album:"Soarin' Over California",
 		comments:"Track source: soundsofdisneyland.com"
@@ -7425,7 +7425,7 @@ var disc53 = [
 		title:"Queue Music (2005): The Blue Max Suite",
 		artist:"Jerry Goldsmith",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Soarin' Over California/11 Queue Music (2005)_ The Blue Max Suite.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Soarin' Over California/11 Queue Music (2005)_ The Blue Max Suite.mp3",
 		poster:"AlbumArt/Soarin_ Over California.png",
 		album:"Soarin' Over California",
 		comments:"Track source: soundsofdisneyland.com"
@@ -7434,7 +7434,7 @@ var disc53 = [
 		title:"Queue Music (2005): The Generals",
 		artist:"Jerry Goldsmith",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Soarin' Over California/12 Queue Music (2005)_ The Generals.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Soarin' Over California/12 Queue Music (2005)_ The Generals.mp3",
 		poster:"AlbumArt/Soarin_ Over California.png",
 		album:"Soarin' Over California",
 		comments:"Track source: soundsofdisneyland.com"
@@ -7443,7 +7443,7 @@ var disc53 = [
 		title:"Queue Loop (2005)",
 		artist:"Walt Disney",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Soarin' Over California/13 Queue Loop (2005).m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Soarin' Over California/13 Queue Loop (2005).mp3",
 		poster:"AlbumArt/Soarin_ Over California.png",
 		album:"Soarin' Over California",
 		comments:"Track source: soundsofdisneyland.com"
@@ -7590,7 +7590,7 @@ var disc54 = [
 		title:"Grizzly River Run: Queue Loop",
 		artist:"Walt Disney",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Grizzly Peak/11 Grizzly River Run_ Queue Loop.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Grizzly Peak/11 Grizzly River Run_ Queue Loop.mp3",
 		poster:"AlbumArt/Grizzly Peak.png",
 		album:"Grizzly Peak",
 		comments:"Track source: soundsofdisneyland.com"
@@ -7599,7 +7599,7 @@ var disc54 = [
 		title:"Redwood Creek Challenge Trail: Area Loop",
 		artist:"Walt Disney",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Grizzly Peak/12 Redwood Creek Challenge Trail_ Area Loop.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Grizzly Peak/12 Redwood Creek Challenge Trail_ Area Loop.mp3",
 		poster:"AlbumArt/Grizzly Peak.png",
 		album:"Grizzly Peak",
 		comments:"Track source: soundsofdisneyland.com"
@@ -7734,7 +7734,7 @@ var disc57 = [
 		title:"Pixar Promenade: Area Loop (2018)",
 		artist:"Walt Disney",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Pixar Pier/01 Pixar Promenade_ Area Loop (2018).m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Pixar Pier/01 Pixar Promenade_ Area Loop (2018).mp3",
 		poster:"AlbumArt/Pixar Pier.png",
 		album:"Pixar Pier",
 		comments:"Track source: soundsofdisneyland.com"
@@ -7782,7 +7782,7 @@ var disc58 = [
 		title:"Plaza de la Familia: Area Loop",
 		artist:"Michael Giacchino",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Plaza de la Familia/01 Plaza de la Familia_ Area Loop.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Plaza de la Familia/01 Plaza de la Familia_ Area Loop.mp3",
 		poster:"AlbumArt/Plaza de la Familia.png",
 		album:"Plaza de la Familia",
 		comments:"Track source: soundsofdisneyland.com"
@@ -7803,7 +7803,7 @@ var disc59 = [
 		title:"Lobby: Queue Loop (Reconstruction) (No Echo)",
 		artist:"Walt Disney",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Tower of Terror/02 Lobby_ Queue Loop (Reconstruction) (No Echo).m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Tower of Terror/02 Lobby_ Queue Loop (Reconstruction) (No Echo).mp3",
 		poster:"AlbumArt/Tower of Terror.png",
 		album:"Tower of Terror",
 		comments:"Track source: soundsofdisneyland.com"
@@ -7929,7 +7929,7 @@ var disc59 = [
 		title:"Lobby: Queue Music: Deep Purple",
 		artist:"Turner Layton",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Tower of Terror/16 Lobby_ Queue Music_ Deep Purple.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Tower of Terror/16 Lobby_ Queue Music_ Deep Purple.mp3",
 		poster:"AlbumArt/Tower of Terror.png",
 		album:"Tower of Terror",
 		comments:"Track source: soundsofdisneyland.com"
@@ -8019,7 +8019,7 @@ var disc59 = [
 		title:"It's Raining, it's Pouring",
 		artist:"Bernard Herrmann",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Tower of Terror/26 It_s Raining, it_s Pouring.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Tower of Terror/26 It_s Raining, it_s Pouring.mp3",
 		poster:"AlbumArt/Tower of Terror.png",
 		album:"Tower of Terror",
 		comments:"Track source: soundsofdisneyland.com"
@@ -8037,7 +8037,7 @@ var disc59 = [
 		title:"Little Girl Lost: Soundtrack",
 		artist:"Bernard Herrmann",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Tower of Terror/28 Little Girl Lost_ Soundtrack.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Tower of Terror/28 Little Girl Lost_ Soundtrack.mp3",
 		poster:"AlbumArt/Tower of Terror.png",
 		album:"Tower of Terror",
 		comments:"Track source: soundsofdisneyland.com"
@@ -8046,7 +8046,7 @@ var disc59 = [
 		title:"Boiler Room: Ambience Audio",
 		artist:"Bernard Herrmann",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Tower of Terror/29 Boiler Room_ Ambience Audio.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Tower of Terror/29 Boiler Room_ Ambience Audio.mp3",
 		poster:"AlbumArt/Tower of Terror.png",
 		album:"Tower of Terror",
 		comments:"Track source: soundsofdisneyland.com"
@@ -8055,7 +8055,7 @@ var disc59 = [
 		title:"Boiler Room: Radio Loop",
 		artist:"Bernard Herrmann",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Tower of Terror/30 Boiler Room_ Radio Loop.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Tower of Terror/30 Boiler Room_ Radio Loop.mp3",
 		poster:"AlbumArt/Tower of Terror.png",
 		album:"Tower of Terror",
 		comments:"Track source: soundsofdisneyland.com"
@@ -8073,7 +8073,7 @@ var disc59 = [
 		title:"Elevator Motor Shaft Sounds",
 		artist:"Bernard Herrmann",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Tower of Terror/32 Elevator Motor Shaft Sounds.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Tower of Terror/32 Elevator Motor Shaft Sounds.mp3",
 		poster:"AlbumArt/Tower of Terror.png",
 		album:"Tower of Terror",
 		comments:"Track source: soundsofdisneyland.com"
@@ -8082,7 +8082,7 @@ var disc59 = [
 		title:"Elevator Shaft: Ambience Audio",
 		artist:"Bernard Herrmann",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Tower of Terror/33 Elevator Shaft_ Ambience Audio.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Tower of Terror/33 Elevator Shaft_ Ambience Audio.mp3",
 		poster:"AlbumArt/Tower of Terror.png",
 		album:"Tower of Terror",
 		comments:"Track source: soundsofdisneyland.com"
@@ -8091,7 +8091,7 @@ var disc59 = [
 		title:"Return Spiel",
 		artist:"Bernard Herrmann",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Tower of Terror/34 Return Spiel.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Tower of Terror/34 Return Spiel.mp3",
 		poster:"AlbumArt/Tower of Terror.png",
 		album:"Tower of Terror",
 		comments:"Track source: soundsofdisneyland.com"
@@ -8100,7 +8100,7 @@ var disc59 = [
 		title:"Ride Through",
 		artist:"Bernard Herrmann",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Tower of Terror/35 Ride Through.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Tower of Terror/35 Ride Through.mp3",
 		poster:"AlbumArt/Tower of Terror.png",
 		album:"Tower of Terror",
 		comments:"Track source: soundsofdisneyland.com"
@@ -8130,7 +8130,7 @@ var disc60 = [
 		title:"Summer of Heroes: Area Loop",
 		artist:"Walt Disney",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Guardians of the Galaxy/01 Summer of Heroes_ Area Loop.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Guardians of the Galaxy/01 Summer of Heroes_ Area Loop.mp3",
 		poster:"AlbumArt/Guardians of the Galaxy.png",
 		album:"Guardians of the Galaxy",
 		comments:"Track source: soundsofdisneyland.com"
@@ -8139,7 +8139,7 @@ var disc60 = [
 		title:"Black Widow Arrival",
 		artist:"Walt Disney",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Guardians of the Galaxy/02 Black Widow Arrival.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Guardians of the Galaxy/02 Black Widow Arrival.mp3",
 		poster:"AlbumArt/Guardians of the Galaxy.png",
 		album:"Guardians of the Galaxy",
 		comments:"Track source: soundsofdisneyland.com"
@@ -8214,7 +8214,7 @@ var disc61 = [
 		title:"Ramone's House of Body Art: La Bamba",
 		artist:"Ritchie Valens/Traditional",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Cars Land/07 Ramone_s House of Body Art_ La Bamba.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Cars Land/07 Ramone_s House of Body Art_ La Bamba.mp3",
 		poster:"AlbumArt/Cars Land.png",
 		album:"Cars Land",
 		comments:"Track source: soundsofdisneyland.com"
@@ -8223,7 +8223,7 @@ var disc61 = [
 		title:"Ramone's House of Body Art: Low Rider",
 		artist:"Walt Disney",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Cars Land/08 Ramone_s House of Body Art_ Low Rider.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Cars Land/08 Ramone_s House of Body Art_ Low Rider.mp3",
 		poster:"AlbumArt/Cars Land.png",
 		album:"Cars Land",
 		comments:"Track source: soundsofdisneyland.com"
@@ -8232,7 +8232,7 @@ var disc61 = [
 		title:"Ramone's House of Body Art: Why Can't We Be Friends?",
 		artist:"Papa Dee Allen, Charles Miller, Lee Oskar, Lonnie Jordan, B.B. Dickerson, Harold Brown, Howard Scott & Jerry Goldstein",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Cars Land/09 Ramone_s House of Body Art_ Why Can_t We Be Friends_.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Cars Land/09 Ramone_s House of Body Art_ Why Can_t We Be Friends_.mp3",
 		poster:"AlbumArt/Cars Land.png",
 		album:"Cars Land",
 		comments:"Track source: soundsofdisneyland.com"
@@ -8241,7 +8241,7 @@ var disc61 = [
 		title:"Ramone's House of Body Art: Wooly Bully",
 		artist:"Walt Disney",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Cars Land/10 Ramone_s House of Body Art_ Wooly Bully.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Cars Land/10 Ramone_s House of Body Art_ Wooly Bully.mp3",
 		poster:"AlbumArt/Cars Land.png",
 		album:"Cars Land",
 		comments:"Track source: soundsofdisneyland.com"
@@ -8352,7 +8352,7 @@ var disc62 = [
 		title:"Mickey and the Magical Map: Ultimate Soundtrack Mix",
 		artist:"Walt Disney",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Fantasyland Theatre/09 Mickey and the Magical Map_ Ultimate Soundtrack Mix.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Fantasyland Theatre/09 Mickey and the Magical Map_ Ultimate Soundtrack Mix.mp3",
 		poster:"AlbumArt/Fantasyland Theatre.png",
 		album:"Fantasyland Theatre",
 		comments:"Track source: soundsofdisneyland.com"
@@ -8616,7 +8616,7 @@ var disc63 = [
 		title:"Parade: Paint the Night: Soundtrack (2015)",
 		artist:"Walt Disney",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Parades/15 Parade_ Paint the Night_ Soundtrack (2015).m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Parades/15 Parade_ Paint the Night_ Soundtrack (2015).mp3",
 		poster:"AlbumArt/Parades.png",
 		album:"Parades",
 		comments:"Track source: soundsofdisneyland.com"
@@ -8703,7 +8703,7 @@ var disc65 = [
 		title:"Soundtrack (2010)",
 		artist:"Walt Disney",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/World of Color/02 Soundtrack (2010).m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/World of Color/02 Soundtrack (2010).mp3",
 		poster:"AlbumArt/World of Color.png",
 		album:"World of Color",
 		comments:"Track source: soundsofdisneyland.com"
@@ -8721,7 +8721,7 @@ var disc65 = [
 		title:"Exit Music",
 		artist:"Walt Disney",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/World of Color/04 Exit Music.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/World of Color/04 Exit Music.mp3",
 		poster:"AlbumArt/World of Color.png",
 		album:"World of Color",
 		comments:"Track source: soundsofdisneyland.com"
@@ -8739,7 +8739,7 @@ var disc65 = [
 		title:"Celebrate: Soundtrack (2015)",
 		artist:"Walt Disney",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/World of Color/06 Celebrate_ Soundtrack (2015).m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/World of Color/06 Celebrate_ Soundtrack (2015).mp3",
 		poster:"AlbumArt/World of Color.png",
 		album:"World of Color",
 		comments:"Track source: soundsofdisneyland.com"
@@ -8748,7 +8748,7 @@ var disc65 = [
 		title:"Celebrate: Exit Music (2015)",
 		artist:"Walt Disney",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/World of Color/07 Celebrate_ Exit Music (2015).m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/World of Color/07 Celebrate_ Exit Music (2015).mp3",
 		poster:"AlbumArt/World of Color.png",
 		album:"World of Color",
 		comments:"Track source: soundsofdisneyland.com"
@@ -8796,7 +8796,7 @@ var disc66 = [
 		title:"Disneyland Forever",
 		artist:"Walt Disney",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Firework Shows/05 Disneyland Forever.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Firework Shows/05 Disneyland Forever.mp3",
 		poster:"AlbumArt/Firework Shows.png",
 		album:"Firework Shows",
 		comments:"Track source: soundsofdisneyland.com"
@@ -8805,7 +8805,7 @@ var disc66 = [
 		title:"Mickey & Minnie's 90th Celebration: It's a Good Time",
 		artist:"The DeeKompressors",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Firework Shows/06 Mickey & Minnie_s 90th Celebration_ It_s a Good Time.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Firework Shows/06 Mickey & Minnie_s 90th Celebration_ It_s a Good Time.mp3",
 		poster:"AlbumArt/Firework Shows.png",
 		album:"Firework Shows",
 		comments:"Track source: soundsofdisneyland.com"
@@ -8832,7 +8832,7 @@ var disc66 = [
 		title:"Exit Music: Magical! (A Dream is a Wish)",
 		artist:"Walt Disney",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Firework Shows/09 Exit Music_ Magical! (A Dream is a Wish).m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Firework Shows/09 Exit Music_ Magical! (A Dream is a Wish).mp3",
 		poster:"AlbumArt/Firework Shows.png",
 		album:"Firework Shows",
 		comments:"Track source: soundsofdisneyland.com"
@@ -8841,7 +8841,7 @@ var disc66 = [
 		title:"Exit Music: Disneyland Forever (Live the Magic)",
 		artist:"Walt Disney",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Firework Shows/10 Exit Music_ Disneyland Forever (Live the Magic).m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Firework Shows/10 Exit Music_ Disneyland Forever (Live the Magic).mp3",
 		poster:"AlbumArt/Firework Shows.png",
 		album:"Firework Shows",
 		comments:"Track source: soundsofdisneyland.com"
@@ -8868,7 +8868,7 @@ var disc66 = [
 		title:"Celebrate the Magic: Soundtrack",
 		artist:"Walt Disney",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Firework Shows/13 Celebrate the Magic_ Soundtrack.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Firework Shows/13 Celebrate the Magic_ Soundtrack.mp3",
 		poster:"AlbumArt/Firework Shows.png",
 		album:"Firework Shows",
 		comments:"Track source: soundsofdisneyland.com"
@@ -9465,7 +9465,7 @@ var disc70 = [
 		title:"Glow",
 		artist:"Walt Disney",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Holiday/37 Glow.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Holiday/37 Glow.mp3",
 		poster:"AlbumArt/Holiday.png",
 		album:"Holiday",
 		comments:"Track source: soundsofdisneyland.com"
@@ -9474,7 +9474,7 @@ var disc70 = [
 		title:"Winter Dreams: Theme",
 		artist:"Walt Disney",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Holiday/38 Winter Dreams_ Theme.m4a",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Holiday/38 Winter Dreams_ Theme.mp3",
 		poster:"AlbumArt/Holiday.png",
 		album:"Holiday",
 		comments:"Track source: soundsofdisneyland.com"
@@ -9513,27 +9513,27 @@ var disc71 = [
 		title:"How Do You Do? (1946) (NEW)",
 		artist:"Johnny Mercer",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Brair Patch Tribute/01 How Do You Do_ (1946).mp3",
-		poster:"AlbumArt/Brair Patch Tribute.png",
-		album:"Brair Patch Tribute",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Briar Patch/01 How Do You Do_ (1946).mp3",
+		poster:"AlbumArt/Briar Patch.png",
+		album:"Briar Patch Tribute",
 		comments:"Track source: soundsofdisneyland.com"
 	},
 	{
 		title:"Everybody's Got a Laughin' Place (1946) (NEW)",
 		artist:"Johnny Mercer",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Brair Patch Tribute/02 Everybody_s Got a Laughin_ Place (1946).mp3",
-		poster:"AlbumArt/Brair Patch Tribute.png",
-		album:"Brair Patch Tribute",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Briar Patch/02 Everybody_s Got a Laughin_ Place (1946).mp3",
+		poster:"AlbumArt/Briar Patch.png",
+		album:"Briar Patch Tribute",
 		comments:"Track source: soundsofdisneyland.com"
 	},
 	{
 		title:"Zip-A-Dee-Doo-Dah (1946) (NEW)",
 		artist:"Johnny Mercer",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Brair Patch Tribute/03 Zip-A-Dee-Doo-Dah (1946).m4a",
-		poster:"AlbumArt/Brair Patch Tribute.png",
-		album:"Brair Patch Tribute",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Briar Patch/03 Zip-A-Dee-Doo-Dah (1946).m4a",
+		poster:"AlbumArt/Briar Patch.png",
+		album:"Briar Patch Tribute",
 		comments:"Track source: soundsofdisneyland.com"
 	}
 ];
