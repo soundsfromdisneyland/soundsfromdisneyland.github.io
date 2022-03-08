@@ -6,7 +6,7 @@ var disc1 = [
 		title:"Welcome to Disneyland: Disneyland Dedication",
 		artist:"Walt Disney",
 		free:false,
-		mp3:"34.122.136.167/AudioFiles/Welcome to Disneyland/01 Welcome to Disneyland_ Disneyland Dedication.mp3",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Welcome to Disneyland/01 Welcome to Disneyland_ Disneyland Dedication.mp3",
 		poster:"AlbumArt/Welcome to Disneyland.png",
 		album:"Welcome to Disneyland",
 		comments:"Track source: soundsofdisneyland.com"
