@@ -1,0 +1,963 @@
+@font-face {
+    font-family: CarouselOfProgres;
+    src: url('fonts/forgotten futurist rg.ttf');
+}
+
+html{
+	box-sizing: border-box;
+	min-width: 295px;
+	height:100%;
+	font-family: CarouselOfProgres;
+
+}
+
+@media only screen and (max-width: 480px), only screen and (max-device-width: 480px) {
+   /* CSS overrides for mobile here */
+   .material-icons.volumeOn {
+   		color:rgba(0, 0, 0, 0.26);
+   }
+}
+
+.loading{
+	display:flex;
+	justify-content:space-around;
+	flex-direction: column;
+	height:100%;
+}
+
+
+.center{
+	display:flex;
+	justify-content:space-around;
+}
+
+:focus{
+	outline:none;
+}
+
+.md-dark { color: rgba(0, 0, 0, 0.54); }
+.md-dark.md-inactive { color: rgba(0, 0, 0, 0.26); }
+
+.md-light { color: rgba(255, 255, 255, 1); }
+.md-light.md-inactive { color: rgba(255, 255, 255, 0.3); }
+
+
+i.md-20{
+	font-size: 20px;
+}
+i.md-30 {
+	font-size: 30px;
+}
+
+i.md-36 {
+	font-size: 36px;
+}
+
+i.md-40 {
+	font-size: 40px;
+}
+
+button.md-20 {
+	font-size: 20px;
+}
+
+button.md-30 {
+	font-size: 30px;
+}
+
+button.md-36 {
+	font-size: 36px;
+}
+
+button.md-40 {
+	font-size: 40px;
+}
+
+#playingTitle {
+	font-size: .9em;
+	display:flex;
+	flex-direction:row;
+	justify-content:space-between;
+	height:41px;
+}
+
+.trackInfoDisplay{
+	background-color: #667;
+	position:absolute;
+	top: 0;
+    right: 0;
+	min-height: fit-content;
+    min-width: fit-content;
+    padding: 5px;
+    border-radius: 5px;
+    display:none;
+
+	
+}
+h3{
+	text-align: center;
+	padding-bottom: 20px;
+}
+.backFromFaq{
+	width: 5%;
+	cursor: pointer;
+}
+
+.addtrack{
+	white-space: normal;
+	width:100%;
+	padding:0px 5px;
+	overflow: overlay;
+    text-overflow: ;
+}
+
+.addtrackli{
+	display:flex;
+	justify-content:space-between;
+	border: 1px solid #667;
+}
+
+li.addtrackli:hover {
+    border: 1px solid rgb(167, 166, 166);
+    background-color: #777777;
+}
+
+.addtrackurls{
+	text-align: right;
+}
+
+.faqImg{
+	width:100%;
+}
+.faqButtonImg{
+	width:5%;
+}
+.subp{
+	padding: 0px 20px;
+	text-align: justify;
+}
+
+.faq{
+	display:none;
+}
+.faqImgSmall{
+	width:25%;
+}
+
+.tab{
+	font-size: 1em;
+	background-color: #667;
+	z-index:10001;
+	padding:20px;
+	/*display:none;*/
+	position: fixed;
+    width: inherit;
+    height: 100%;
+    overflow:scroll;
+}
+
+.aboutTab.controlledWidth{
+	width: inherit;
+	display:none;
+}
+
+.jp-controls-holder{
+
+}
+.controlPanel{
+	padding:1%;
+	background-color: #eee;
+	border-radius: 10px;
+}
+
+ol.noNumber{
+	list-style-type: none;
+	padding: 0 2em 2em 2em;
+	text-align: center;
+	-webkit-column-count: 2;
+	-moz-column-count: 2;
+	-ms-column-count: 2;
+	-o-column-count: 2;
+	column-count: 2;
+	-webkit-column-gap: 2em;
+	-moz-column-gap: 2em;
+	-ms-column-gap: 2em;
+	-o-column-gap: 2em;
+	column-gap: 2em;
+}
+
+
+dd{
+	padding-left: 20px;
+}
+
+.timeAndTitle{
+	display:flex;
+	flex-direction:row;
+	justify-content:space-between;
+	background-color: #eee;
+}
+
+.artistCentered{
+	display:flex !important;
+	flex-direction:row;
+	justify-content:space-around;
+	max-width:300px;
+
+
+}
+.medialist1{
+	display:flex !important;
+	flex-direction:column;
+	justify-content:space-around;
+	height:41px;
+	max-width: 300px;
+	white-space: nowrap;
+	overflow:hidden;
+}
+
+body {
+	margin:0%
+	font-family:CarouselOfProgres,Verdana,Arial,sans-serif;
+	color:white;
+	height:100%; 
+	/*min-width: 900px;
+	min-height: 400px;*/
+	background-color: #A5A5A5;
+	/*background-image:url(../mickey.png);*/
+	background-attachment:fixed;
+	-webkit-touch-callout: none !important; 
+}
+
+#sticky.stick {
+    margin-top: 0 !important;
+    position: fixed;
+    top: 0;
+    z-index: 10000;
+	border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+
+}
+
+.stretchMe{
+	width:100%;
+}
+
+.HauntedPortraitRoom{
+	height:0px;
+	overflow:hidden;
+}
+
+.borderbottom{
+	border-bottom: solid 1px #eee;
+}
+
+
+a { 
+	-webkit-user-select: none !important; 
+}
+
+a:focus {
+	outline: none !important;
+	}
+
+ol {
+	padding:20px 30px 65px 55px;
+	color:#eee;
+}
+
+i{
+	vertical-align: middle;
+	text-decoration: none;
+	font-style:normal;
+}
+
+.hiddenButton{
+	display:none;
+	padding-top: 15px;
+}
+
+#close{
+	color:black;
+}
+
+.containerLoading{
+	display:none;
+	padding:0px;
+	flex-direction:row;
+	justify-content:center;
+
+}
+
+.mainContainer{
+	padding:0px;
+	display:flex;
+	flex-direction:row;
+	justify-content:space-evenly;
+	height:100%;
+}
+
+.outerContainer{
+	display: none;
+}
+
+.theAlbumView{
+	display:none;
+}
+
+.volumeContainer{
+	margin:auto 0;
+}
+
+.playlistlists {
+	color:#eee;
+}
+
+.myform{
+	height: 24px;
+}
+
+
+.playlisttitle{
+	padding:0px 0px 10px 0px;
+	font-size: 1.3em;
+	text-align: center;
+	text-decoration: underline;
+}
+
+.links{
+	display:flex;
+	flex-direction:row;
+	justify-content:center;
+}
+
+.addPlaylistMenu{
+	display:none;
+	padding: 5% 0% 1% 0%;
+	font-size: .72em;
+}
+.personalPlaylistMenu{
+	display:none;
+	font-size: .72em;
+}
+
+.landcollections{
+	display:none;
+	padding: 5% 0% 1% 0%;
+	font-size: .72em;
+
+}
+
+.addPlaylist{
+	float:right;
+	height:20px;
+	width:20px;
+	margin: 0px 25px 0px 0px;
+}
+#myForm {
+	display:flex;
+	flex-direction:row;
+	justify-content:space-between;
+	padding:12.5px;
+}
+
+.formText{
+	width: 85%;
+}
+
+.playlistNameForm{
+	width:90%;
+	height:50px;
+	background-color: #eee;
+	opacity:.7;
+	margin: 0% 5% 0% 5%;
+	border-radius: 0px 0px 5px 5px;
+	display:none;
+
+}
+
+
+
+.playlistMenuShow{
+	display:none;
+}
+
+.menuIconParent{
+	display:flex;
+}
+
+.playlistMenuIcon{
+	height:20px;
+	width:20px;
+	margin:2px 10px;
+}
+
+.playlistMenu{
+	background-color: #a6a6a6;
+	height:56px;
+	display:flex;
+	flex-direction:row;
+	justify-content:space-around;
+}
+
+}
+.playlistMenuIconBar{
+	width: 20px;
+    height: 2px;
+    background-color: #667;
+    border-radius: 5px;
+    margin:2px 10px 2px 10px;
+
+}
+.personalPlaylistList{
+	margin-top: 20px;
+}
+
+.clear{
+	cursor: pointer;
+}
+.nowPlayingPoster{
+	height: 40px;
+	width: 40px;
+	/* border-top-left-radius: 15%; */
+	border-radius: 15%;
+	padding: 3px 3px;
+}
+
+.playingTrack{
+	position:absolute;
+}
+
+.listParent{
+	display:flex !important;
+	width:100%;
+}
+.mediaTitle{
+	overflow: hidden;
+	text-overflow: ellipsis; 
+	height:22px;
+	padding-top: 5px;
+	
+}
+.medialist{
+	display:flex !important;
+	flex-direction:column;
+	justify-content:space-around;
+	padding-left: 10px;
+	width:100%;
+}
+.listItems{
+	margin: 0% 3%;
+	display:flex !important;
+	flex-direction:row-reverse;
+	justify-content:space-between;
+	max-height: 40px;
+	border-bottom: 1px solid #eee;
+}
+
+.upNextHeader{
+	display: flex;
+	justify-content: space-between;
+	flex-direction: row;
+	border-bottom: .5px solid white;
+}
+
+.upNextTitle{
+	font-size: 20px;
+    line-height: 150%
+}
+
+.upNextSubtext{
+	font-size: 15px;
+    padding: 1px 9px 2px;
+    line-height: 200%;
+}
+
+.upNext{
+	height:1.2em;
+	list-style-type:none;
+	min-width: 280px;
+	max-width: 680px;
+	width:95%;
+	display:flex !important;
+	flex-direction:row;
+	justify-content:space-between;
+	background-color: #a5a5a5;
+}
+.upNext.jp-playlist{
+	border-top-right-radius: 0px;
+	border-bottom-right-radius:0px;
+	border-bottom-left-radius: 0px;
+	padding: .5% 3px;
+	position:inherit;
+}
+
+.currentlyPlaying{
+	width: 94%;
+	border-bottom:1px solid #eee !important;
+	display:flex;
+	justify-content:space-around;
+	background-color: #a5a5a5;
+	margin: 0% 3%;
+	box-sizing: border-box;
+}
+
+.playlistbuttons{
+	margin:18px 0px;
+	width:20px;
+	height:auto;
+}
+
+.menuShow{
+	display:none;
+	cursor:pointer;
+}
+
+
+
+.albumMenu{
+}
+
+i.backButton{
+	display: flex;
+	margin: 4%;
+	width:2em;
+	/*border-radius:7px;*/
+	/*background-color:lightgrey;*/
+	border: none;
+	cursor: pointer;
+	color:;
+
+}
+
+.tlist{
+	display:none;
+}
+
+.tlistActive{
+	font-size: 1em;
+	color:black;
+	line-height: 2em;
+	background-color: #667;
+	border-radius: 10px;
+	margin-top: .3%
+}
+
+img.albumDetailImage{
+	width:40%;
+	height: 40%;
+	margin-top:2%;
+	margin-left: 4%;
+	border-radius: 10px;
+}
+
+.albumDetailContainer{
+	display: flex;
+	color:#eee;
+}
+
+.albumInfoContainter{
+	color:#eee;
+}
+
+
+.addMenu{
+	width:32.5%;
+	height:50px;
+	background-color:black;
+	opacity:.6;
+	position:relative;
+	top: -53px;
+}
+
+.addtrackurl{
+	width:1.5em;
+}
+
+
+body {
+  counter-reset: section;                    /* Set the section counter to 0 */
+}
+
+.addtrackli::before {
+  counter-increment: section;                 /*Increment the section counter*/
+  content: counter(section) ""; 			/* Display the counter */
+  position: relative;
+  left: -25px;
+  width:0px;
+
+}
+
+li.noNumber.addtrackli::before{
+	content:none;
+}
+
+.fairUse{
+	font-size: 10px;
+	padding: 10px;
+	text-align: justify;
+
+}
+
+.menu{
+	background-color: #667;
+	height:28px;
+	display:flex;
+	flex-direction:column;
+	justify-content:space-around;
+}
+
+.menuIconBar{
+	width: 20px;
+    height: 2px;
+    background-color: #eee;
+    border-radius: 5px;
+    margin:2px 10px 2px 10px;
+
+}
+.menuIcon{
+	cursor:pointer;
+}
+
+#jquery_jplayer_N {
+	min-height: 295px;
+	max-height: 680px;
+	min-width: 295px;
+	max-width: 680px;
+	width:100%;
+	overflow:hidden;
+	
+}
+
+#jp_container_N {
+	height:100%;
+}
+
+.jp-interface {
+	position:relative;
+	padding: 0px 0px 20px 0px;
+}
+
+#jp_poster_0{
+	width:100%;
+	height:100%;
+	padding:3%;
+
+}
+audio {
+	width:300px;
+	height:300px;
+}
+
+}
+.albums{
+
+
+}
+
+.albumcover{
+	width: 32.3%;
+	margin: .5%;
+}
+
+.albumcover.landscape{
+	width: 24%;
+}
+
+.theAlbumView.landscape{
+	width: 40%;
+	display:flex;
+}
+
+.outerContainer.landscape{
+	width: 40%;
+	display:flex;
+}
+
+.jp-playlist.landscape{
+	position: absolute;
+	top:0;
+	overflow: scroll;
+	display: none;
+}
+
+#sticky.stick.landscape{
+	width: 40%;
+}
+
+.mediaPlayer {
+
+}
+
+.controlledWidth{
+	min-width: 295px;
+    max-width: 680px;
+    width: 100%;
+}
+
+.controlledheight{
+	min-height: 295px;
+    max-height: 680px;
+}
+
+.nowPlayingButton{
+	border: solid 1px #cccccc;
+    background-color: #ccc
+}
+
+.tabButton{
+	border: solid 1px #667;
+    background-color: #667
+}
+
+
+@-webkit-keyframes fadeIn { from { opacity:0; opacity: 1\9; /* IE9 only */ } to { opacity:1; } }
+@-moz-keyframes fadeIn { from { opacity:0; opacity: 1\9; /* IE9 only */ } to { opacity:1; } }
+@keyframes fadeIn { from { opacity:0; opacity: 1\9; /* IE9 only */ } to { opacity:1; } }
+
+.fade-in {
+    opacity:0;  /* make things invisible upon start */
+    -webkit-animation:fadeIn ease-in 1;  /* call our keyframe named fadeIn, use animattion ease-in and repeat it only 1 time */
+    -moz-animation:fadeIn ease-in 1;
+    animation:fadeIn ease-in 1;
+
+    -webkit-animation-fill-mode:forwards;  /* this makes sure that after animation is done we remain at the last keyframe value (opacity: 1)*/
+    -moz-animation-fill-mode:forwards;
+    animation-fill-mode:forwards;
+
+    -webkit-animation-duration:.25s;
+    -moz-animation-duration:.25s;
+    animation-duration:.25s;
+}
+#trackHistImg{
+	width:13px;
+	vertical-align: top;
+}
+
+.fade-in.one {
+-webkit-animation-delay: 0.3s;
+-moz-animation-delay: 0.3s;
+animation-delay: 0.3s;
+}
+
+.white{
+	color:white;
+}
+.trackInfo{
+	position: absolute;
+    right: 35px;
+    top: 35px;
+    color:#eee;
+}
+
+.album {
+	border-radius: 10px;
+	width:100%;
+
+}
+
+.theAlbumButtonContainer.albumContainer{
+	padding: 5% 0%;
+	justify-content: flex-start;
+}
+
+.albumContainer{
+	white-space: nowrap;
+	display: flex;
+	justify-content:flex-start;
+	width:100%;
+	flex-wrap:wrap;
+}
+
+.albumInfoContainer{
+	margin-top:2%;
+	padding: 0% 6%;
+	white-space: normal;
+	display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width:60%;
+}
+
+.albumTextContainer{
+    height: 60%;
+    white-space: normal;
+}
+
+.theAlbumButtonContainer{
+	display: flex;
+    justify-content: space-between;
+    width: 100%;
+    white-space: nowrap;
+}
+
+.albumButton{
+	padding: 1px 9px;
+    background-color: #477499;
+    border-radius: 5px;
+}
+
+.libraryButton{
+	padding: 1px 9px;
+    background-color: #477499;
+    border-radius: 5px;
+    margin:.5%;
+}
+
+.theAlbumArtist{
+	font-size: 2vh;
+}
+
+.theAlbumName{
+	font-size: 3vh;
+}
+
+#overlayDiv{
+	opacity: 1;
+	background-color: #b5b5b5;
+	position: absolute;
+	z-index: 5000;
+	height: 110px;
+	border-radius: 10px;
+	width: auto;
+	padding: 0px 5px;
+	display: flex !important;
+    justify-content: space-around;
+    flex-direction: column;
+}
+
+a#close {
+    text-align: right;
+    cursor: pointer;
+}
+
+a:link {
+    text-decoration: none;
+    color:#eee;
+}
+
+a:visited {
+    text-decoration: none;
+    color:#eee;
+}
+
+a:hover {
+    text-decoration: none;
+    color:#eee;
+}
+
+a:active {
+    text-decoration: none;
+    color:#eee;
+}
+
+a.coloredLink {
+	cursor:pointer;
+}
+
+a.coloredLink:hover {
+	cursor:pointer;
+}
+
+#chrisLyndon{
+	display:none;
+}
+
+.mainContainer{
+	margin:auto 0;
+	display: flex;
+}
+
+.mainMessageFlexRow{
+	display:flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
+
+.mainMessage{
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+}
+
+.loadingParent{
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+}
+
+.roundedButton{
+	color: #667;
+	background-color: white;
+	text-align: center;
+	width: 150px;
+	margin: 20px auto;
+	cursor: pointer;
+	border-radius: 20px;
+	font-size:20px;
+}
+
+.continuePlaceHolder{
+	background-color: #A5A5A5;
+	cursor:default;
+}
+
+img.smallWorldLoading {
+	z-index:1000;
+	position:relative;
+    animation-name: clock;
+  	animation-duration: 4s;
+  	animation-direction: reverse;  
+  	animation-iteration-count:infinite;
+  	transform:rotate(25deg);
+  	height:20em;
+  	width: 20em;
+  	margin:auto;
+}
+
+
+@keyframes clock {
+	50% {transform:rotate(-25deg)}
+}
+
+.gHavaj {
+    -webkit-box-align: center;
+    align-items: center;
+    backface-visibility: hidden;
+    background-color: rgb(232, 91, 70);
+    box-sizing: border-box;
+    cursor: pointer;
+    display: inline-flex;
+    font-weight: 500;
+    height: unset;
+    -webkit-box-pack: center;
+    justify-content: center;
+    position: relative;
+    pointer-events: unset;
+    text-align: center;
+    text-transform: none;
+    user-select: none;
+    white-space: unset;
+    color: rgb(255, 255, 255) !important;
+    font-size: 0.875rem !important;
+    border-radius: 9999px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(232, 91, 70);
+    border-image: initial;
+    padding: 0.46875rem 1rem;
+    text-decoration: none;
+    transition: all 300ms cubic-bezier(0.19, 1, 0.22, 1) 0s;
+}
+
+.iQIUpy, .iQIUpy svg {
+    height: 1rem;
+    width: 1rem;
+    fill: rgb(255, 255, 255);
+}
+
+.patron {
+	margin:5px;
+}
+
+
