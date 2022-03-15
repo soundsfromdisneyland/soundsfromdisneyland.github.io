@@ -1,7 +1,7 @@
 
 
 var disc1 = [
-		
+
 	{
 		title:"Welcome to Disneyland: Disneyland Dedication",
 		artist:"Walt Disney",
@@ -40,7 +40,7 @@ var disc1 = [
 	}
 ];
 var disc2 = [
-		
+
 	{
 		title:"When You Wish Upon a Star",
 		artist:"Walt Disney",
@@ -331,7 +331,7 @@ var disc2 = [
 	}
 ];
 var disc3 = [
-		
+
 	{
 		title:"Area Background Music",
 		artist:"Walt Disney",
@@ -433,7 +433,7 @@ var disc3 = [
 	}
 ];
 var disc4 = [
-		
+
 	{
 		title:"All Aboard!",
 		artist:"Walt Disney",
@@ -526,7 +526,7 @@ var disc4 = [
 	}
 ];
 var disc5 = [
-		
+
 	{
 		title:"Town Square: Area Loop",
 		artist:"Walt Disney",
@@ -646,7 +646,7 @@ var disc5 = [
 	}
 ];
 var disc6 = [
-		
+
 	{
 		title:"Spoon Full of Sugar",
 		artist:"Walt Disney",
@@ -937,7 +937,7 @@ var disc6 = [
 	}
 ];
 var disc7 = [
-		
+
 	{
 		title:"Overture",
 		artist:"Walt Disney",
@@ -1075,7 +1075,7 @@ var disc7 = [
 	}
 ];
 var disc8 = [
-		
+
 	{
 		title:"Main Street Emporium: Music Loop",
 		artist:"Walt Disney",
@@ -1195,7 +1195,7 @@ var disc8 = [
 	}
 ];
 var disc9 = [
-		
+
 	{
 		title:"Area Music: Black and White",
 		artist:"Albert White and his Gaslight Orchestra",
@@ -1396,7 +1396,7 @@ var disc9 = [
 	}
 ];
 var disc10 = [
-		
+
 	{
 		title:"Area Music: Old Timers Medley",
 		artist:"Walt Disney",
@@ -1525,7 +1525,7 @@ var disc10 = [
 	}
 ];
 var disc11 = [
-		
+
 	{
 		title:"Area Music: Married Life",
 		artist:"Walt Disney",
@@ -1564,7 +1564,7 @@ var disc11 = [
 	}
 ];
 var disc12 = [
-		
+
 	{
 		title:"Main Street U.S.A. Atmosphere: Penny Arcade Sounds & The Welte Orchestrion",
 		artist:"Walt Disney",
@@ -1657,7 +1657,7 @@ var disc12 = [
 	}
 ];
 var disc13 = [
-		
+
 	{
 		title:"Jolly Holiday Bakery: Area Loop",
 		artist:"Walt Disney",
@@ -1714,7 +1714,7 @@ var disc13 = [
 	}
 ];
 var disc14 = [
-		
+
 	{
 		title:"Hub Introduction",
 		artist:"Walt Disney",
@@ -1807,7 +1807,7 @@ var disc14 = [
 	}
 ];
 var disc15 = [
-		
+
 	{
 		title:"Clopin's Music Box: Clopin's Music Box",
 		artist:"Walt Disney",
@@ -1918,7 +1918,7 @@ var disc15 = [
 	}
 ];
 var disc16 = [
-		
+
 	{
 		title:"Pixie Hollow: Area Loop: Suite",
 		artist:"Joel McNeely",
@@ -1984,7 +1984,7 @@ var disc16 = [
 	}
 ];
 var disc17 = [
-		
+
 	{
 		title:"Sleeping Beauty Castle: Area Music (1983): When You Wish Upon A Star",
 		artist:"Walt Disney",
@@ -2113,7 +2113,7 @@ var disc17 = [
 	}
 ];
 var disc18 = [
-		
+
 	{
 		title:"Darkride Suite",
 		artist:"Walt Disney",
@@ -2278,7 +2278,7 @@ var disc18 = [
 	}
 ];
 var disc19 = [
-		
+
 	{
 		title:"Area Music: Alice in Wonderland",
 		artist:"Walt Disney",
@@ -2461,7 +2461,7 @@ var disc19 = [
 	}
 ];
 var disc20 = [
-		
+
 	{
 		title:"Clock Parade",
 		artist:"Sherman & Sherman",
@@ -2599,7 +2599,7 @@ var disc20 = [
 	}
 ];
 var disc21 = [
-		
+
 	{
 		title:"Storybook Land: Grotto: Area Background Music",
 		artist:"Walt Disney",
@@ -2620,7 +2620,7 @@ var disc21 = [
 	}
 ];
 var disc22 = [
-		
+
 	{
 		title:"Pinocchio's Village Haus: Area Music",
 		artist:"Walt Disney",
@@ -2713,7 +2713,7 @@ var disc22 = [
 	}
 ];
 var disc23 = [
-		
+
 	{
 		title:"Dumbo Flying Elephants: Area Music: Casey Jr.",
 		artist:"Walt Disney",
@@ -2797,7 +2797,7 @@ var disc23 = [
 	}
 ];
 var disc24 = [
-		
+
 	{
 		title:"Adventureland Gateway - Native Drum Loop",
 		artist:"Walt Disney",
@@ -2881,7 +2881,7 @@ var disc24 = [
 	}
 ];
 var disc25 = [
-		
+
 	{
 		title:"Enchanted Tiki Garden: Tiki Room Preshow",
 		artist:"Walt Disney",
@@ -3100,7 +3100,7 @@ var disc25 = [
 	}
 ];
 var disc26 = [
-		
+
 	{
 		title:"Warrior Drums",
 		artist:"Walt Disney",
@@ -3427,7 +3427,7 @@ var disc26 = [
 	}
 ];
 var disc27 = [
-		
+
 	{
 		title:"Jungle Sounds",
 		artist:"Walt Disney",
@@ -3673,7 +3673,7 @@ var disc27 = [
 	}
 ];
 var disc28 = [
-		
+
 	{
 		title:"Area Loop",
 		artist:"Walt Disney",
@@ -3757,7 +3757,7 @@ var disc28 = [
 	}
 ];
 var disc29 = [
-		
+
 	{
 		title:"Swiss Family Robinson Tree House: Swisskapolka",
 		artist:"Walt Disney",
@@ -3814,7 +3814,7 @@ var disc29 = [
 	}
 ];
 var disc30 = [
-		
+
 	{
 		title:"The Bootstrappers Pirate Band: Yo Ho",
 		artist:"Walt Disney",
@@ -4015,7 +4015,7 @@ var disc30 = [
 	}
 ];
 var disc31 = [
-		
+
 	{
 		title:"So This is Love",
 		artist:"Walt Disney",
@@ -4171,7 +4171,7 @@ var disc31 = [
 	}
 ];
 var disc32 = [
-		
+
 	{
 		title:"The Royal Street Bachelors",
 		artist:"George Bruns",
@@ -4309,7 +4309,7 @@ var disc32 = [
 	}
 ];
 var disc33 = [
-		
+
 	{
 		title:"Ghostly Music Box",
 		artist:"Walt Disney",
@@ -4492,7 +4492,7 @@ var disc33 = [
 	}
 ];
 var disc34 = [
-		
+
 	{
 		title:"Critter Country Area Music: Area Loop",
 		artist:"Allie Wrubel",
@@ -4693,7 +4693,7 @@ var disc34 = [
 	}
 ];
 var disc35 = [
-		
+
 	{
 		title:"Area Music: The Rain Rain Rain",
 		artist:"Buddy Baker",
@@ -4750,7 +4750,7 @@ var disc35 = [
 	}
 ];
 var disc36 = [
-		
+
 	{
 		title:"Hoedown (1972)",
 		artist:"Walt Disney",
@@ -4771,7 +4771,7 @@ var disc36 = [
 	}
 ];
 var disc37 = [
-		
+
 	{
 		title:"Stockade Entrance: Loop",
 		artist:"Walt Disney",
@@ -4882,7 +4882,7 @@ var disc37 = [
 	}
 ];
 var disc38 = [
-		
+
 	{
 		title:"Area Music: Big Thunder",
 		artist:"Walt Disney",
@@ -5083,7 +5083,7 @@ var disc38 = [
 	}
 ];
 var disc39 = [
-		
+
 	{
 		title:"Mark Twain River Boat: Queen of the River Theme",
 		artist:"Walt Disney",
@@ -5203,7 +5203,7 @@ var disc39 = [
 	}
 ];
 var disc40 = [
-		
+
 	{
 		title:"Steamboat Willie",
 		artist:"Walt Disney",
@@ -5413,7 +5413,7 @@ var disc40 = [
 	}
 ];
 var disc41 = [
-		
+
 	{
 		title:"Galaxy's Edge: Symphonic Suite",
 		artist:"John Williams",
@@ -5623,12 +5623,12 @@ var disc41 = [
 	}
 ];
 var disc42 = [
-		
+
 	{
 		title:"R3X's Playlist #1: Mad About Mad About Me (feat. Figrin D'an and the Modal Nodes)",
 		artist:"John Williams",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge Oga's Cantina/01 R3X_s Playlist No.1_ Mad About Mad About Me (feat. Figrin D_an and the Modal Nodes).mp3",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge Oga's Cantina/01 Mad About Mad About Me (feat. Figrin D_an and the Modal Nodes).mp3",
 		poster:"AlbumArt/Star Wars  Galaxy_s Edge Oga_s Cantina.png",
 		album:"Star Wars: Galaxy's Edge Oga's Cantina",
 		comments:"Track source: soundsofdisneyland.com"
@@ -5637,7 +5637,7 @@ var disc42 = [
 		title:"R3X's Playlist #1: Turbulence",
 		artist:"Tamir Muskat & Ori Kaplan",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge Oga's Cantina/02 R3X_s Playlist No.1_ Turbulence.mp3",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge Oga's Cantina/02 Turbulence.mp3",
 		poster:"AlbumArt/Star Wars  Galaxy_s Edge Oga_s Cantina.png",
 		album:"Star Wars: Galaxy's Edge Oga's Cantina",
 		comments:"Track source: soundsofdisneyland.com"
@@ -5646,7 +5646,7 @@ var disc42 = [
 		title:"R3X's Playlist #1: Bright Suns",
 		artist:"Tamir Muskat & Ori Kaplan",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge Oga's Cantina/03 R3X_s Playlist No.1_ Bright Suns.mp3",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge Oga's Cantina/03 Bright Suns.mp3",
 		poster:"AlbumArt/Star Wars  Galaxy_s Edge Oga_s Cantina.png",
 		album:"Star Wars: Galaxy's Edge Oga's Cantina",
 		comments:"Track source: soundsofdisneyland.com"
@@ -5655,7 +5655,7 @@ var disc42 = [
 		title:"R3X's Playlist #1: Nama Heh",
 		artist:"Francis Ralls",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge Oga's Cantina/04 R3X_s Playlist No.1_ Nama Heh.mp3",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge Oga's Cantina/04 Nama Heh.mp3",
 		poster:"AlbumArt/Star Wars  Galaxy_s Edge Oga_s Cantina.png",
 		album:"Star Wars: Galaxy's Edge Oga's Cantina",
 		comments:"Track source: soundsofdisneyland.com"
@@ -5664,7 +5664,7 @@ var disc42 = [
 		title:"R3X's Playlist #1: Oola Shuka",
 		artist:"Judith Hill",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge Oga's Cantina/05 R3X_s Playlist No.1_ Oola Shuka.mp3",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge Oga's Cantina/05 Oola Shuka.mp3",
 		poster:"AlbumArt/Star Wars  Galaxy_s Edge Oga_s Cantina.png",
 		album:"Star Wars: Galaxy's Edge Oga's Cantina",
 		comments:"Track source: soundsofdisneyland.com"
@@ -5673,7 +5673,7 @@ var disc42 = [
 		title:"R3X's Playlist #1: Beep Boop Bop",
 		artist:"Melissa Atwell",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge Oga's Cantina/06 R3X_s Playlist No.1_ Beep Boop Bop.mp3",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge Oga's Cantina/06 Beep Boop Bop.mp3",
 		poster:"AlbumArt/Star Wars  Galaxy_s Edge Oga_s Cantina.png",
 		album:"Star Wars: Galaxy's Edge Oga's Cantina",
 		comments:"Track source: soundsofdisneyland.com"
@@ -5682,7 +5682,7 @@ var disc42 = [
 		title:"R3X's Playlist #1: Aloogahoo",
 		artist:"Ryan O'Connell & Valerie Vigoda",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge Oga's Cantina/07 R3X_s Playlist No.1_ Aloogahoo.mp3",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge Oga's Cantina/07 Aloogahoo.mp3",
 		poster:"AlbumArt/Star Wars  Galaxy_s Edge Oga_s Cantina.png",
 		album:"Star Wars: Galaxy's Edge Oga's Cantina",
 		comments:"Track source: soundsofdisneyland.com"
@@ -5691,7 +5691,7 @@ var disc42 = [
 		title:"R3X's Playlist #1: Bai Tee Tee (feat. Gubz)",
 		artist:"Adam Gubman",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge Oga's Cantina/08 R3X_s Playlist No.1_ Bai Tee Tee (feat. Gubz).mp3",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge Oga's Cantina/08 Bai Tee Tee (feat. Gubz).mp3",
 		poster:"AlbumArt/Star Wars  Galaxy_s Edge Oga_s Cantina.png",
 		album:"Star Wars: Galaxy's Edge Oga's Cantina",
 		comments:"Track source: soundsofdisneyland.com"
@@ -5700,7 +5700,7 @@ var disc42 = [
 		title:"R3X's Playlist #1: Modal Notes",
 		artist:"Michael Krämer",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge Oga's Cantina/09 R3X_s Playlist No.1_ Modal Notes.mp3",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge Oga's Cantina/09 Modal Notes.mp3",
 		poster:"AlbumArt/Star Wars  Galaxy_s Edge Oga_s Cantina.png",
 		album:"Star Wars: Galaxy's Edge Oga's Cantina",
 		comments:"Track source: soundsofdisneyland.com"
@@ -5709,7 +5709,7 @@ var disc42 = [
 		title:"R3X's Playlist #1: Una Duey Dee",
 		artist:"Michael Krämer",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge Oga's Cantina/10 R3X_s Playlist No.1_ Una Duey Dee.mp3",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge Oga's Cantina/10 Una Duey Dee.mp3",
 		poster:"AlbumArt/Star Wars  Galaxy_s Edge Oga_s Cantina.png",
 		album:"Star Wars: Galaxy's Edge Oga's Cantina",
 		comments:"Track source: soundsofdisneyland.com"
@@ -5718,7 +5718,7 @@ var disc42 = [
 		title:"R3X's Playlist #1: Goola Bukee (feat. YS-5755)",
 		artist:"Zain Effendi & Tyler Martens",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge Oga's Cantina/11 R3X_s Playlist No.1_ Goola Bukee (feat. YS-5755).mp3",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge Oga's Cantina/11 Goola Bukee (feat. YS-5755).mp3",
 		poster:"AlbumArt/Star Wars  Galaxy_s Edge Oga_s Cantina.png",
 		album:"Star Wars: Galaxy's Edge Oga's Cantina",
 		comments:"Track source: soundsofdisneyland.com"
@@ -5727,7 +5727,7 @@ var disc42 = [
 		title:"R3X's Playlist #1: Droid World",
 		artist:"Zain Effendi & Dylan Lane",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge Oga's Cantina/12 R3X_s Playlist No.1_ Droid World.mp3",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge Oga's Cantina/12 Droid World.mp3",
 		poster:"AlbumArt/Star Wars  Galaxy_s Edge Oga_s Cantina.png",
 		album:"Star Wars: Galaxy's Edge Oga's Cantina",
 		comments:"Track source: soundsofdisneyland.com"
@@ -5736,7 +5736,7 @@ var disc42 = [
 		title:"R3X's Playlist #1: Utinni",
 		artist:"Yossi Cohen & Avishay Goren",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge Oga's Cantina/13 R3X_s Playlist No.1_ Utinni.mp3",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge Oga's Cantina/13 Utinni.mp3",
 		poster:"AlbumArt/Star Wars  Galaxy_s Edge Oga_s Cantina.png",
 		album:"Star Wars: Galaxy's Edge Oga's Cantina",
 		comments:"Track source: soundsofdisneyland.com"
@@ -5745,7 +5745,7 @@ var disc42 = [
 		title:"R3X's Playlist #1: Batuu Boogie (feat. MW-59)",
 		artist:"Jason Mater",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge Oga's Cantina/14 R3X_s Playlist No.1_ Batuu Boogie (feat. MW-59).mp3",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge Oga's Cantina/14 Batuu Boogie (feat. MW-59).mp3",
 		poster:"AlbumArt/Star Wars  Galaxy_s Edge Oga_s Cantina.png",
 		album:"Star Wars: Galaxy's Edge Oga's Cantina",
 		comments:"Track source: soundsofdisneyland.com"
@@ -5754,7 +5754,7 @@ var disc42 = [
 		title:"R3X's Playlist #1: Moulee-Rah (feat. RB Snootles)",
 		artist:"Dan Fontana & Roger Butterley",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge Oga's Cantina/15 R3X_s Playlist No.1_ Moulee-Rah (feat. RB Snootles).mp3",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge Oga's Cantina/15 Moulee-Rah (feat. RB Snootles).mp3",
 		poster:"AlbumArt/Star Wars  Galaxy_s Edge Oga_s Cantina.png",
 		album:"Star Wars: Galaxy's Edge Oga's Cantina",
 		comments:"Track source: soundsofdisneyland.com"
@@ -5763,7 +5763,7 @@ var disc42 = [
 		title:"R3X's Playlist #1: Doshka",
 		artist:"Tamir Muskat & Ori Kaplan",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge Oga's Cantina/16 R3X_s Playlist No.1_ Doshka.mp3",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge Oga's Cantina/16 Doshka.mp3",
 		poster:"AlbumArt/Star Wars  Galaxy_s Edge Oga_s Cantina.png",
 		album:"Star Wars: Galaxy's Edge Oga's Cantina",
 		comments:"Track source: soundsofdisneyland.com"
@@ -5772,7 +5772,7 @@ var disc42 = [
 		title:"R3X's Playlist #1: Huttuk Cheeka",
 		artist:"Dan Fontana & Roger Butterley",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge Oga's Cantina/17 R3X_s Playlist No.1_ Huttuk Cheeka.mp3",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge Oga's Cantina/17 Huttuk Cheeka.mp3",
 		poster:"AlbumArt/Star Wars  Galaxy_s Edge Oga_s Cantina.png",
 		album:"Star Wars: Galaxy's Edge Oga's Cantina",
 		comments:"Track source: soundsofdisneyland.com"
@@ -5781,7 +5781,7 @@ var disc42 = [
 		title:"R3X's Playlist #1: Yocola Ateema",
 		artist:"Dan Fontana & Roger Butterley",
 		free:false,
-		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge Oga's Cantina/18 R3X_s Playlist No.1_ Yocola Ateema.mp3",
+		mp3:"https://soundsfrom.duckdns.org/AudioFiles/Star Wars_ Galaxy's Edge Oga's Cantina/18 Yocola Ateema.mp3",
 		poster:"AlbumArt/Star Wars  Galaxy_s Edge Oga_s Cantina.png",
 		album:"Star Wars: Galaxy's Edge Oga's Cantina",
 		comments:"Track source: soundsofdisneyland.com"
@@ -5806,7 +5806,7 @@ var disc42 = [
 	}
 ];
 var disc43 = [
-		
+
 	{
 		title:"Tomorrowland: Area Loop (1989-2003)",
 		artist:"Walt Disney",
@@ -5899,7 +5899,7 @@ var disc43 = [
 	}
 ];
 var disc44 = [
-		
+
 	{
 		title:"Soundtrack: From the Earth to the Moon",
 		artist:"Bruce Broughton",
@@ -5983,7 +5983,7 @@ var disc44 = [
 	}
 ];
 var disc45 = [
-		
+
 	{
 		title:"Disneyland Alweg Monorail System",
 		artist:"Buddy Baker",
@@ -6157,7 +6157,7 @@ var disc45 = [
 	}
 ];
 var disc46 = [
-		
+
 	{
 		title:"Soundtrack (1987: 2011)",
 		artist:"John Williams",
@@ -6214,7 +6214,7 @@ var disc46 = [
 	}
 ];
 var disc47 = [
-		
+
 	{
 		title:"Concourse: Monorail Song",
 		artist:"Walt Disney",
@@ -6397,7 +6397,7 @@ var disc47 = [
 	}
 ];
 var disc48 = [
-		
+
 	{
 		title:"Horizons: New Horizons",
 		artist:"Walt Disney",
@@ -6580,7 +6580,7 @@ var disc48 = [
 	}
 ];
 var disc49 = [
-		
+
 	{
 		title:"There's a Great Big Beautiful Tomorrow: Chorus",
 		artist:"Sherman & Sherman",
@@ -6826,7 +6826,7 @@ var disc49 = [
 	}
 ];
 var disc50 = [
-		
+
 	{
 		title:"Buena Vista Street: Area Music Loop (2012)",
 		artist:"Walt Disney",
@@ -7063,7 +7063,7 @@ var disc50 = [
 	}
 ];
 var disc51 = [
-		
+
 	{
 		title:"Hollywood Land: Area Loop (2001)",
 		artist:"Walt Disney",
@@ -7183,7 +7183,7 @@ var disc51 = [
 	}
 ];
 var disc52 = [
-		
+
 	{
 		title:"Area Music (2001-2010): The Right Stuff: Breaking the Sound Barrier",
 		artist:"Bill Conti",
@@ -7330,7 +7330,7 @@ var disc52 = [
 	}
 ];
 var disc53 = [
-		
+
 	{
 		title:"Queue Loop (2001-2005)",
 		artist:"Walt Disney",
@@ -7495,7 +7495,7 @@ var disc53 = [
 	}
 ];
 var disc54 = [
-		
+
 	{
 		title:"Airfield: Area Loop (2015)",
 		artist:"Walt Disney",
@@ -7615,7 +7615,7 @@ var disc54 = [
 	}
 ];
 var disc55 = [
-		
+
 	{
 		title:"Golden Vine Winery: Area Loop",
 		artist:"Walt Disney",
@@ -7654,7 +7654,7 @@ var disc55 = [
 	}
 ];
 var disc56 = [
-		
+
 	{
 		title:"The Little Mermaid: Ariel's Undersea Adventure: Ride",
 		artist:"Alan Menken",
@@ -7729,7 +7729,7 @@ var disc56 = [
 	}
 ];
 var disc57 = [
-		
+
 	{
 		title:"Pixar Promenade: Area Loop (2018)",
 		artist:"Walt Disney",
@@ -7777,7 +7777,7 @@ var disc57 = [
 	}
 ];
 var disc58 = [
-		
+
 	{
 		title:"Plaza de la Familia: Area Loop",
 		artist:"Michael Giacchino",
@@ -7789,7 +7789,7 @@ var disc58 = [
 	}
 ];
 var disc59 = [
-		
+
 	{
 		title:"Lobby: Queue Loop (Master Mix) (NEW)",
 		artist:"Walt Disney",
@@ -8125,7 +8125,7 @@ var disc59 = [
 	}
 ];
 var disc60 = [
-		
+
 	{
 		title:"Summer of Heroes: Area Loop",
 		artist:"Walt Disney",
@@ -8155,7 +8155,7 @@ var disc60 = [
 	}
 ];
 var disc61 = [
-		
+
 	{
 		title:"Welcome to Radiator Springs",
 		artist:"Walt Disney",
@@ -8275,7 +8275,7 @@ var disc61 = [
 	}
 ];
 var disc62 = [
-		
+
 	{
 		title:"Videopolis Theatre: Area Loop",
 		artist:"Walt Disney",
@@ -8485,7 +8485,7 @@ var disc62 = [
 	}
 ];
 var disc63 = [
-		
+
 	{
 		title:"Toy Story Block Party Bash: Full Show",
 		artist:"Walt Disney",
@@ -8623,7 +8623,7 @@ var disc63 = [
 	}
 ];
 var disc64 = [
-		
+
 	{
 		title:"Soundtrack (1992-2012)",
 		artist:"Walt Disney",
@@ -8689,7 +8689,7 @@ var disc64 = [
 	}
 ];
 var disc65 = [
-		
+
 	{
 		title:"Soundtrack (Pre-Premiere)",
 		artist:"Walt Disney",
@@ -8755,7 +8755,7 @@ var disc65 = [
 	}
 ];
 var disc66 = [
-		
+
 	{
 		title:"Tinkerbell's Fantasy in the Sky",
 		artist:"Walt Disney",
@@ -8902,7 +8902,7 @@ var disc66 = [
 	}
 ];
 var disc67 = [
-		
+
 	{
 		title:"Trader Sam Tiki Bar: Area Loop",
 		artist:"Walt Disney",
@@ -8986,7 +8986,7 @@ var disc67 = [
 	}
 ];
 var disc68 = [
-		
+
 	{
 		title:"The Cadaver Dans: Rivers of America",
 		artist:"Walt Disney",
@@ -9034,7 +9034,7 @@ var disc68 = [
 	}
 ];
 var disc69 = [
-		
+
 	{
 		title:"Music Box: Area Loop",
 		artist:"Walt Disney",
@@ -9136,7 +9136,7 @@ var disc69 = [
 	}
 ];
 var disc70 = [
-		
+
 	{
 		title:"Disneyland Esplanade: Area Loop",
 		artist:"Walt Disney",
@@ -9508,7 +9508,7 @@ var disc70 = [
 	}
 ];
 var disc71 = [
-		
+
 	{
 		title:"How Do You Do? (1946) (NEW)",
 		artist:"Johnny Mercer",
